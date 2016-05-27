@@ -1,0 +1,301 @@
+    1  sudo reboot
+    2  df -h
+    3  sudo su -
+    4  hostname
+    5  ifconfig
+    6  sudo su -
+    7  ifconfig
+    8  sudo su -
+    9  ifconfig
+   10  ifdown eth0
+   11  sudo su - 
+   12  lsdg
+   13  df -h
+   14  fdisk -l
+   15  sudo su - 
+   16  sudo su -
+   17  ifconfig
+   18  eboot
+   19  sudo reboot
+   20  git
+   21  pwd
+   22  ls -ltra
+   23  git init
+   24  ls -ltr
+   25  ls -ltra 
+   26  cd .git/
+   27  ls -ltr
+   28  cd branches/
+   29  ls- ltr
+   30  ls -ltr
+   31  ls -ltra
+   32  admin
+   33  cd ..
+   34  tree .git
+   35  sudo apt-get install vim
+   36  vim
+   37  git status 
+   38  git add error/
+   39  pwd
+   40  git add history/
+   41  git add history
+   42  ls -ltra
+   43  cd .git/
+   44  ls -ltra
+   45  cat config 
+   46  cd
+   47  vim ~/.gitconfig
+   48  git config --list
+   49  vim ~/.gitconfig
+   50  git config --list
+   51  vim ~/.gitignore
+   52  git status
+   53  pwd
+   54  ls -ltra 
+   55  git add error/
+   56  ls -ltrh
+   57  ls -ltra
+   58  mkdir lx2_Danny
+   59  cd lx2_Danny/
+   60  error
+   61  mkdir error
+   62  mkdir history
+   63  mkdir src
+   64  mkdir misc
+   65  ls -ltrh
+   66  cd ..
+   67  mv .gitconfig .gitignore ./lx2_Danny/
+   68  git status
+   69  git config --list
+   70  ls -ltra
+   71  cd .g
+   72  cd .git/
+   73  ls -ltr
+   74  cat config 
+   75  cd ../lx2_Danny/
+   76  ls -ltra 
+   77  mv .gitconfig .gitignore ../
+   78  git config --list
+   79  git add error/
+   80  git add history/
+   81  git add src/
+   82  git add misc/
+   83  git status
+   84  touch misc/file.so
+   85  git status
+   86  git add error
+   87  git add history
+   88  git add src
+   89  git add misc
+   90  git status
+   91  cd ..
+   92  git add .gitignore 
+   93  git status
+   94  ls -ltra
+   95  git add lx2_Danny
+   96  git status
+   97  git log
+   98  git status
+   99  git remote add origin https://github.com/djvalverde/lx2_danny.git
+  100  git push -u origin master
+  101  git remote add github https://github.com/djvalverde/lx2_danny.git
+  102  git push -u github master
+  103  git status
+  104  pwd
+  105  ls-ltr
+  106  ls -ltrh
+  107  git add lx2_Danny
+  108  git status
+  109  git add lx2_Danny --force
+  110  git status
+  111  git remove lx2_Danny
+  112  git --help
+  113  git rm lx2_Danny
+  114  git rm -r lx2_Danny
+  115  git rm -r lx2_Danny --force
+  116  git status
+  117  cd lx2_Danny/
+  118  ls -ltr
+  119  mkdr misc
+  120  mkdir misc
+  121  ls- ltr
+  122  ls -ltrh
+  123  git aff error/
+  124  git add error/
+  125  git status
+  126  git status --force
+  127  git add error/ --force
+  128  git status
+  129  cd ..
+  130  ls -ltrh
+  131  ls -ltra
+  132  cat .gitconfig
+  133  cd ..
+  134  cd -
+  135  mv .git ./lx2_Danny/
+  136  mv .gitconfig .gitignore ./lx2_Danny/
+  137  ls -ltr
+  138  cd lx2_Danny/
+  139  ls -ltrh
+  140  git --list
+  141  three
+  142  tree
+  143  ls -ltra 
+  144  git status
+  145  git config --list
+  146  cd .git
+  147  ls -ltr
+  148  ld -ltra
+  149  ls -ltrh
+  150  ls -ltra
+  151  cat config 
+  152  ls -ltrh
+  153  cat .gitconfig
+  154  cd ..
+  155  cd .git/
+  156  cat .gitconfig
+  157  ls -ltrh
+  158  ls -ltra
+  159  cd ..
+  160  ls -ltra
+  161  cat .gitconfig
+  162  git config --list
+  163  ls -ltra
+  164  mv .gitconfig ../
+  165  git config --list
+  166  vi .gitconfig
+  167  ls -ltrh
+  168  ls -ltra
+  169  cd ..
+  170  ls -ltra
+  171  vi .gitconfig
+  172  git config --list
+  173  cd ..
+  174  cd 
+  175  cd lx2_Danny/
+  176  ls -ltra
+  177  git add error/
+  178  git status
+  179  git add error/ --force
+  180  git status
+  181  git add src/
+  182  git add history/
+  183  git add error/
+  184  git status
+  185  ls -ltr
+  186  ls- ltra
+  187* 
+  188  rm -Rf .git
+  189  sudo apt-get install git
+  190  ls -ltr
+  191  ls- ltra
+  192  ls -ltra
+  193  cd ..
+  194  ls -ltra
+  195  sudo apt-get remove git
+  196  sudo apt-get purge git
+  197  sudo apt-get install git
+  198  ls -ltra
+  199  cd lx2_Danny/
+  200  ls -ltra
+  201  git init
+  202  ls -ltra
+  203  git config --list
+  204  git status
+  205  git add error/
+  206  git status
+  207  git add error/ --force
+  208  git status
+  209  git add error/*
+  210  git add error
+  211  git status
+  212  git add 
+  213  git add --help
+  214  git add error/\*
+  215  git add error/
+  216  git status
+  217  ls -ltrh
+  218  git add error/ --force
+  219  git status
+  220  git push
+  221  git push -u master
+  222  git remote add origin https://github.com/djvalverde/lx2_danny.git
+  223  git push -u origin master
+  224  git remote rm origin https://github.com/djvalverde/lx2_danny.git
+  225  git remote remove origin https://github.com/djvalverde/lx2_danny.git
+  226  git remote remove https://github.com/djvalverde/lx2_danny.git
+  227  git remote remove origin https://github.com/djvalverde/lx2_danny.git
+  228  git remote --help
+  229  !
+  230  git remote
+  231  git add error
+  232  git status
+  233  git remote add github https://github.com/djvalverde/lx2_danny.git
+  234  git push -u github master
+  235  git commit -m "Inicializacion del arbol de desarrollo"
+  236  git status
+  237  git remote add origin https://github.com/djvalverde/lx2_danny.git
+  238  git push -u origin master
+  239  git config --list
+  240  cd .git/
+  241  ls -ltra
+  242  vi config 
+  243  cd ..
+  244  ls-ltr
+  245  hls -ltrh
+  246  ls -ltrh
+  247  cd .git/
+  248  git remote add origin https://github.com/djvalverde/lx2_danny.git
+  249  git push -u origin master
+  250  git config --list
+  251  git remote add github https://github.com/djvalverde/lx2_danny.git
+  252  git push -u github master
+  253  git remote
+  254  git remote github 
+  255  git remote remove  github
+  256  git remote remove  origin
+  257  git remote
+  258  git remote add origin https://github.com/djvalverde/lx2_danny.git
+  259  git push -u origin master
+  260  echo "# lx2_danny" >> README.md
+  261  git add README.md
+  262  cd ..
+  263  ls-ltrh
+  264  ls -ltrh
+  265  tree
+  266  git add README.md
+  267  echo "# lx2_danny" >> README.md
+  268  git add README.md
+  269  git status
+  270  git commit -m "first commit"
+  271  git remote add origin https://github.com/djvalverde/lx2_danny.git
+  272  git push -u origin master
+  273  git status
+  274  ls-ltr
+  275  ls -ltr
+  276  git add error
+  277  git status
+  278  git add history
+  279  git add src
+  280  git add misc
+  281  git remote add origin https://github.com/djvalverde/lx2_danny.git
+  282  git push -u origin master
+  283  git remote add github https://github.com/djvalverde/lx2_danny.git
+  284  git push -u github master
+  285  git remote 
+  286  ls -ltrh
+  287  chmod 777 error
+  288  gti add error/
+  289  git add error
+  290  git status
+  291  cd error
+  292  touch test.txt
+  293  cd ..
+  294  git add error
+  295  git status
+  296  ls -ltrh
+  297  chmod 776 error/
+  298  ls -ltrh
+  299  chmod 775 error/
+  300  ls -ltrh
+  301  history >> ./history/hostory-user_`hostname`
