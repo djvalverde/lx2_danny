@@ -348,3 +348,43 @@
   348  cd history/
   349  ls -ltrh
   350  history > history-admin1-lx2_danny-`hostname`
+  351  ls- ltrh
+  352  ls -ltrh
+  353  more history-admin1-lx2_danny-lx2-ubuntuvm 
+  354  git status
+  355  git commit -m "Files update"
+  356  git push
+  357  git status
+  358  git commit -a -m "Files update"
+  359  git push
+  360  history > history-admin1-lx2_danny-`hostname`pwd
+  361  pwd
+  362  ls- ltrh
+  363  ls -ltrh
+  364  rm history-admin1-lx2_danny-lx2-ubuntuvmpwd
+  365  cd
+  366  ls -ltra
+  367  vi .bashrc
+  368  uphist
+  369  . .bashrc
+  370  uphist
+  371  ./.bashrc
+  372  . .bashrc
+  373  uphist
+  374  vi .bashrc
+  375  . .bashrc
+  376  vi .bashrc
+  377  . .bashrc
+  378  uphist
+  379  git status
+  380  cd lx2_Danny/
+  381  git status
+  382  ls -ltrh
+  383  cd history/
+  384  ls -ltrh
+  385  rm history-`whoami`-lx2_danny-`hostname`
+  386  git status
+  387  ls -ltrh
+  388  rm history-\`whoami\`-lx2_danny-\`hostname\` 
+  389  ls -ltrh
+  390  uphist
