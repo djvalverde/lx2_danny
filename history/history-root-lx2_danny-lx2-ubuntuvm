@@ -1,0 +1,82 @@
+    1  fdisk -l
+    2  fdisk /dev/sda5
+    3  sudo apt-get install gparted
+    4  fdisk -l
+    5  sudo apt-get install gparted
+    6  ifconfig
+    7  shutdown -h now
+    8  ifdown eth0
+    9  ifdown eth1
+   10  ifup eth1
+   11  apt-get update
+   12  apt-get upgrade
+   13  apt-get install git
+   14  git init
+   15  ls -ltrh
+   16  ld -ltra
+   17  ls -ltra
+   18  cd .git/
+   19  ls -ltra
+   20  cat config 
+   21  ifdown etho
+   22  ifdown eth0
+   23  cat /etc/network/interfaces
+   24  cat /etc/network/interfaces.d/
+   25  ifconfig
+   26  service networking stop
+   27  service networking restart 
+   28  service networking stop
+   29  service networking start
+   30  service networking reload
+   31  ps -ef | grep net
+   32  reboot
+   33  ifdown eth0
+   34  ip addr flush dev eth0
+   35  ifup eth0
+   36  ifup -v eth0
+   37  ip addr flush dev eth1
+   38  ifup -v eth1
+   39  ifconfig eth0 down
+   40  ifconfig eth0 up
+   41  ifconfig
+   42  ifconfig eth1 down
+   43  ifconfig eth1 up
+   44  ifconfig
+   45  ifconfig eth0 down
+   46  ifconfig eth0 up
+   47  ifconfig
+   48  ifup eth0
+   49  ifconfig
+   50  hostname
+   51  ifconfig eth1 down
+   52  ifconfig eth1 up
+   53  ifconfig
+   54  reboot
+   55  fdisk -l
+   56  fdisk /dev/sda5
+   57  ifconfig
+   58  ping www.google.com
+   59  w
+   60  df -h
+   61  df -
+   62  df -h
+   63  reboot
+   64  lsltra
+   65  ls -ltra
+   66  cd .
+   67  cd .git/
+   68  ls -ltra
+   69  vim ~/.gitconfig
+   70  git config --list
+   71  apt-get remove git
+   72  vi .bashrc
+   73  history
+   74  uphist
+   75  . .bashrc
+   76  uphist
+   77  vi .bashrc
+   78  . .bashrc
+   79  uphist
+   80  vi .bashrc
+   81  . .bashrc
+   82  uphist
