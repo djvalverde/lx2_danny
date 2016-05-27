@@ -17,174 +17,174 @@
    17  ifconfig
    18  eboot
    19  sudo reboot
-   20  git
-   21  pwd
-   22  ls -ltra
-   23  git init
-   24  ls -ltr
-   25  ls -ltra 
-   26  cd .git/
-   27  ls -ltr
-   28  cd branches/
-   29  ls- ltr
-   30  ls -ltr
-   31  ls -ltra
-   32  admin
-   33  cd ..
-   34  tree .git
-   35  sudo apt-get install vim
-   36  vim
-   37  git status 
-   38  git add error/
-   39  pwd
-   40  git add history/
-   41  git add history
-   42  ls -ltra
-   43  cd .git/
-   44  ls -ltra
-   45  cat config 
-   46  cd
-   47  vim ~/.gitconfig
-   48  git config --list
-   49  vim ~/.gitconfig
-   50  git config --list
-   51  vim ~/.gitignore
-   52  git status
-   53  pwd
-   54  ls -ltra 
-   55  git add error/
-   56  ls -ltrh
-   57  ls -ltra
-   58  mkdir lx2_Danny
-   59  cd lx2_Danny/
-   60  error
-   61  mkdir error
-   62  mkdir history
-   63  mkdir src
-   64  mkdir misc
-   65  ls -ltrh
-   66  cd ..
-   67  mv .gitconfig .gitignore ./lx2_Danny/
-   68  git status
-   69  git config --list
-   70  ls -ltra
-   71  cd .g
-   72  cd .git/
-   73  ls -ltr
-   74  cat config 
-   75  cd ../lx2_Danny/
-   76  ls -ltra 
-   77  mv .gitconfig .gitignore ../
-   78  git config --list
-   79  git add error/
-   80  git add history/
-   81  git add src/
-   82  git add misc/
-   83  git status
-   84  touch misc/file.so
-   85  git status
-   86  git add error
-   87  git add history
-   88  git add src
-   89  git add misc
-   90  git status
-   91  cd ..
-   92  git add .gitignore 
-   93  git status
-   94  ls -ltra
-   95  git add lx2_Danny
-   96  git status
-   97  git log
-   98  git status
-   99  git remote add origin https://github.com/djvalverde/lx2_danny.git
-  100  git push -u origin master
-  101  git remote add github https://github.com/djvalverde/lx2_danny.git
-  102  git push -u github master
-  103  git status
-  104  pwd
-  105  ls-ltr
-  106  ls -ltrh
-  107  git add lx2_Danny
-  108  git status
-  109  git add lx2_Danny --force
-  110  git status
-  111  git remove lx2_Danny
-  112  git --help
-  113  git rm lx2_Danny
-  114  git rm -r lx2_Danny
-  115  git rm -r lx2_Danny --force
-  116  git status
-  117  cd lx2_Danny/
-  118  ls -ltr
-  119  mkdr misc
-  120  mkdir misc
-  121  ls- ltr
-  122  ls -ltrh
-  123  git aff error/
-  124  git add error/
-  125  git status
-  126  git status --force
-  127  git add error/ --force
-  128  git status
-  129  cd ..
-  130  ls -ltrh
-  131  ls -ltra
-  132  cat .gitconfig
-  133  cd ..
-  134  cd -
-  135  mv .git ./lx2_Danny/
-  136  mv .gitconfig .gitignore ./lx2_Danny/
-  137  ls -ltr
-  138  cd lx2_Danny/
-  139  ls -ltrh
-  140  git --list
-  141  three
-  142  tree
-  143  ls -ltra 
-  144  git status
-  145  git config --list
-  146  cd .git
-  147  ls -ltr
-  148  ld -ltra
-  149  ls -ltrh
-  150  ls -ltra
-  151  cat config 
-  152  ls -ltrh
-  153  cat .gitconfig
-  154  cd ..
-  155  cd .git/
-  156  cat .gitconfig
-  157  ls -ltrh
-  158  ls -ltra
-  159  cd ..
-  160  ls -ltra
-  161  cat .gitconfig
-  162  git config --list
-  163  ls -ltra
-  164  mv .gitconfig ../
-  165  git config --list
-  166  vi .gitconfig
-  167  ls -ltrh
-  168  ls -ltra
-  169  cd ..
-  170  ls -ltra
-  171  vi .gitconfig
-  172  git config --list
-  173  cd ..
-  174  cd 
-  175  cd lx2_Danny/
-  176  ls -ltra
-  177  git add error/
-  178  git status
-  179  git add error/ --force
-  180  git status
-  181  git add src/
-  182  git add history/
-  183  git add error/
-  184  git status
-  185  ls -ltr
-  186  ls- ltra
-  187* 
+   20  sudo su -
+   21  git
+   22  pwd
+   23  ls -ltra
+   24  git init
+   25  ls -ltr
+   26  ls -ltra 
+   27  cd .git/
+   28  ls -ltr
+   29  cd branches/
+   30  ls- ltr
+   31  ls -ltr
+   32  ls -ltra
+   33  admin
+   34  cd ..
+   35  tree .git
+   36  sudo apt-get install vim
+   37  vim
+   38  git status 
+   39  git add error/
+   40  pwd
+   41  git add history/
+   42  git add history
+   43  ls -ltra
+   44  cd .git/
+   45  ls -ltra
+   46  cat config 
+   47  cd
+   48  vim ~/.gitconfig
+   49  git config --list
+   50  vim ~/.gitconfig
+   51  git config --list
+   52  vim ~/.gitignore
+   53  git status
+   54  pwd
+   55  ls -ltra 
+   56  git add error/
+   57  ls -ltrh
+   58  ls -ltra
+   59  mkdir lx2_Danny
+   60  cd lx2_Danny/
+   61  error
+   62  mkdir error
+   63  mkdir history
+   64  mkdir src
+   65  mkdir misc
+   66  ls -ltrh
+   67  cd ..
+   68  mv .gitconfig .gitignore ./lx2_Danny/
+   69  git status
+   70  git config --list
+   71  ls -ltra
+   72  cd .g
+   73  cd .git/
+   74  ls -ltr
+   75  cat config 
+   76  cd ../lx2_Danny/
+   77  ls -ltra 
+   78  mv .gitconfig .gitignore ../
+   79  git config --list
+   80  git add error/
+   81  git add history/
+   82  git add src/
+   83  git add misc/
+   84  git status
+   85  touch misc/file.so
+   86  git status
+   87  git add error
+   88  git add history
+   89  git add src
+   90  git add misc
+   91  git status
+   92  cd ..
+   93  git add .gitignore 
+   94  git status
+   95  ls -ltra
+   96  git add lx2_Danny
+   97  git status
+   98  git log
+   99  git status
+  100  git remote add origin https://github.com/djvalverde/lx2_danny.git
+  101  git push -u origin master
+  102  git remote add github https://github.com/djvalverde/lx2_danny.git
+  103  git push -u github master
+  104  git status
+  105  pwd
+  106  ls-ltr
+  107  ls -ltrh
+  108  git add lx2_Danny
+  109  git status
+  110  git add lx2_Danny --force
+  111  git status
+  112  git remove lx2_Danny
+  113  git --help
+  114  git rm lx2_Danny
+  115  git rm -r lx2_Danny
+  116  git rm -r lx2_Danny --force
+  117  git status
+  118  cd lx2_Danny/
+  119  ls -ltr
+  120  mkdr misc
+  121  mkdir misc
+  122  ls- ltr
+  123  ls -ltrh
+  124  git aff error/
+  125  git add error/
+  126  git status
+  127  git status --force
+  128  git add error/ --force
+  129  git status
+  130  cd ..
+  131  ls -ltrh
+  132  ls -ltra
+  133  cat .gitconfig
+  134  cd ..
+  135  cd -
+  136  mv .git ./lx2_Danny/
+  137  mv .gitconfig .gitignore ./lx2_Danny/
+  138  ls -ltr
+  139  cd lx2_Danny/
+  140  ls -ltrh
+  141  git --list
+  142  three
+  143  tree
+  144  ls -ltra 
+  145  git status
+  146  git config --list
+  147  cd .git
+  148  ls -ltr
+  149  ld -ltra
+  150  ls -ltrh
+  151  ls -ltra
+  152  cat config 
+  153  ls -ltrh
+  154  cat .gitconfig
+  155  cd ..
+  156  cd .git/
+  157  cat .gitconfig
+  158  ls -ltrh
+  159  ls -ltra
+  160  cd ..
+  161  ls -ltra
+  162  cat .gitconfig
+  163  git config --list
+  164  ls -ltra
+  165  mv .gitconfig ../
+  166  git config --list
+  167  vi .gitconfig
+  168  ls -ltrh
+  169  ls -ltra
+  170  cd ..
+  171  ls -ltra
+  172  vi .gitconfig
+  173  git config --list
+  174  cd ..
+  175  cd 
+  176  cd lx2_Danny/
+  177  ls -ltra
+  178  git add error/
+  179  git status
+  180  git add error/ --force
+  181  git status
+  182  git add src/
+  183  git add history/
+  184  git add error/
+  185  git status
+  186  ls -ltr
+  187  ls- ltra
   188  rm -Rf .git
   189  sudo apt-get install git
   190  ls -ltr
@@ -299,3 +299,52 @@
   299  chmod 775 error/
   300  ls -ltrh
   301  history >> ./history/hostory-user_`hostname`
+  302  cd history/
+  303  ls -ltrh
+  304  mv hostory-user_lx2-ubuntuvm history-user_lx2-ubuntuvm
+  305  cd ..
+  306  git add  history/
+  307  git status
+  308  ls -ltrh
+  309  cp README.md ./src
+  310  cp README.md ./misc/
+  311  git add misc 
+  312  git add src
+  313  git status
+  314  git commit -m "Folders creation"
+  315  git status
+  316  git push
+  317  git log
+  318  git status
+  319  cd lx2_Danny/
+  320  guit status
+  321  git status
+  322  git rm .gitnore
+  323  git rm .gitignore
+  324  ls -ltrh
+  325  ls -ltra | grep -i git
+  326  git rm .gitignore
+  327  git rm ../.gitignore
+  328  git add .gitignore
+  329  git commit -u "Files update"
+  330  git status
+  331  git remote
+  332  git commit -m "Files update"
+  333  git push
+  334  git status
+  335  ls
+  336  cd history/
+  337  ls -ltrh
+  338  mv history-user_lx2-ubuntuvm history-admin1-lx2_danny-`hostname`
+  339  ls -ltrh
+  340  git status
+  341  cd ..
+  342  ls -ltrh
+  343  git add history/
+  344  git add --all history/
+  345  git status
+  346  git commit -m "History file update"
+  347  git push
+  348  cd history/
+  349  ls -ltrh
+  350  history > history-admin1-lx2_danny-`hostname`
