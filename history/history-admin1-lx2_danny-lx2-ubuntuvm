@@ -315,76 +315,119 @@
   315  git status
   316  git push
   317  git log
-  318  git status
-  319  cd lx2_Danny/
-  320  guit status
-  321  git status
-  322  git rm .gitnore
-  323  git rm .gitignore
-  324  ls -ltrh
-  325  ls -ltra | grep -i git
-  326  git rm .gitignore
-  327  git rm ../.gitignore
-  328  git add .gitignore
-  329  git commit -u "Files update"
-  330  git status
-  331  git remote
-  332  git commit -m "Files update"
-  333  git push
-  334  git status
-  335  ls
-  336  cd history/
-  337  ls -ltrh
-  338  mv history-user_lx2-ubuntuvm history-admin1-lx2_danny-`hostname`
+  318  sudo su -
+  319  tree .gti
+  320  tree .git
+  321  ls -ltr
+  322  ls -ltra
+  323  vim ~/.gitconfig
+  324  pwd
+  325  vi ~/.gitconfig
+  326  cd .git/
+  327  ls -ltrh
+  328  cd config
+  329  cat config 
+  330  cd..
+  331  cd ..
+  332  git status
+  333  git status
+  334  cd lx2_Danny/
+  335  guit status
+  336  git status
+  337  git rm .gitnore
+  338  git rm .gitignore
   339  ls -ltrh
-  340  git status
-  341  cd ..
-  342  ls -ltrh
-  343  git add history/
-  344  git add --all history/
+  340  ls -ltra | grep -i git
+  341  git rm .gitignore
+  342  git rm ../.gitignore
+  343  git add .gitignore
+  344  git commit -u "Files update"
   345  git status
-  346  git commit -m "History file update"
-  347  git push
-  348  cd history/
-  349  ls -ltrh
-  350  history > history-admin1-lx2_danny-`hostname`
-  351  ls- ltrh
+  346  git remote
+  347  git commit -m "Files update"
+  348  git push
+  349  git status
+  350  ls
+  351  cd history/
   352  ls -ltrh
-  353  more history-admin1-lx2_danny-lx2-ubuntuvm 
-  354  git status
-  355  git commit -m "Files update"
-  356  git push
-  357  git status
-  358  git commit -a -m "Files update"
-  359  git push
-  360  history > history-admin1-lx2_danny-`hostname`pwd
-  361  pwd
-  362  ls- ltrh
-  363  ls -ltrh
-  364  rm history-admin1-lx2_danny-lx2-ubuntuvmpwd
-  365  cd
-  366  ls -ltra
-  367  vi .bashrc
-  368  uphist
-  369  . .bashrc
-  370  uphist
-  371  ./.bashrc
-  372  . .bashrc
-  373  uphist
-  374  vi .bashrc
-  375  . .bashrc
-  376  vi .bashrc
-  377  . .bashrc
-  378  uphist
-  379  git status
-  380  cd lx2_Danny/
-  381  git status
-  382  ls -ltrh
-  383  cd history/
-  384  ls -ltrh
-  385  rm history-`whoami`-lx2_danny-`hostname`
-  386  git status
-  387  ls -ltrh
-  388  rm history-\`whoami\`-lx2_danny-\`hostname\` 
-  389  ls -ltrh
-  390  uphist
+  353  mv history-user_lx2-ubuntuvm history-admin1-lx2_danny-`hostname`
+  354  ls -ltrh
+  355  git status
+  356  cd ..
+  357  ls -ltrh
+  358  git add history/
+  359  git add --all history/
+  360  git status
+  361  git commit -m "History file update"
+  362  git push
+  363  cd history/
+  364  ls -ltrh
+  365  history > history-admin1-lx2_danny-`hostname`
+  366  ls- ltrh
+  367  ls -ltrh
+  368  more history-admin1-lx2_danny-lx2-ubuntuvm 
+  369  git status
+  370  git commit -m "Files update"
+  371  git push
+  372  git status
+  373  git commit -a -m "Files update"
+  374  git push
+  375  history > history-admin1-lx2_danny-`hostname`pwd
+  376  pwd
+  377  ls- ltrh
+  378  ls -ltrh
+  379  rm history-admin1-lx2_danny-lx2-ubuntuvmpwd
+  380  cd
+  381  ls -ltra
+  382  vi .bashrc
+  383  uphist
+  384  . .bashrc
+  385  uphist
+  386  ./.bashrc
+  387  . .bashrc
+  388  uphist
+  389  vi .bashrc
+  390  . .bashrc
+  391  vi .bashrc
+  392  . .bashrc
+  393  uphist
+  394  git status
+  395  cd lx2_Danny/
+  396  git status
+  397  ls -ltrh
+  398  cd history/
+  399  ls -ltrh
+  400  rm history-`whoami`-lx2_danny-`hostname`
+  401  git status
+  402  ls -ltrh
+  403  rm history-\`whoami\`-lx2_danny-\`hostname\` 
+  404  ls -ltrh
+  405  uphist
+  406  ls -ltrh
+  407  git status
+  408  git commit -m "Files update"
+  409  git commit -m -a "Files update"
+  410  cd ..
+  411  git commit -m -a "Files update"
+  412  git commit  -a -m "Files update"
+  413  git push
+  414  CD
+  415  cd
+  416  cat .bashrc
+  417  ls -ltrh
+  418  cd lx2_Danny/history/
+  419  ls -ltrh
+  420  git status
+  421  cd ..
+  422  git add --all history/
+  423  git status
+  424  git commit -a -m "Files update"
+  425  git push
+  426  clear
+  427  ls -ltrh
+  428  cd
+  429  df -h
+  430  sudo su - 
+  431  sudo su -
+  432  sudo su -
+  433  uphist

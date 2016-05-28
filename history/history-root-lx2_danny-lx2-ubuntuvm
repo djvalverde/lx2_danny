@@ -80,3 +80,78 @@
    80  vi .bashrc
    81  . .bashrc
    82  uphist
+   83  fdisk -l
+   84  fdisk /dev/sda5
+   85  fdisk /dev/sda6
+   86  fdisk /dev/sda7
+   87  fdisk /dev/sda8
+   88  reboot
+   89  fdisk -l
+   90  pvdisplay
+   91  apt-get install lvm2
+   92  pvdisplay
+   93  fdisk -l
+   94  pvcreate /dev/sda5
+   95  pvcreate /dev/sda6
+   96  pvcreate /dev/sda7
+   97  pvcreate /dev/sda8
+   98  pvdisplay
+   99  vgcreate -s 4.65G vg01 /dev/sda8
+  100  vgcreate -s 4,65G vg01 /dev/sda8
+  101  fdisk -l
+  102  fdisk -h
+  103  fdisk -l /dev/sda8
+  104  vgcreate -s 4997M vg01 /dev/sda8
+  105  vgcreate -s 4996M vg01 /dev/sda8
+  106  vgcreate -s 4992M vg01 /dev/sda8
+  107  vgcreate -s 4990M vg01 /dev/sda8
+  108  vgcreate -s 16M vg01 /dev/sda8
+  109  vgdisplay
+  110  fdisk -l
+  111  fdisk -l /dev/sda7
+  112  cat /etc/fstab
+  113  fdisk -l /dev/sda8  
+  114  pvdisplay
+  115  fdisk /dev/sda8
+  116  fdisk /dev/sda
+  117  fdisk /dev/sda8
+  118  fdisk /dev/sda7
+  119  fdisk /dev/sda6
+  120  fdisk /dev/sda5
+  121  partprobe(8)
+  122  partprobe
+  123  fdisk -l
+  124  fdisk -l /dev/sda5
+  125  reboot
+  126  fdisk -l
+  127  fdisk -l /dev/sda5
+  128  fdisk -l /dev/sda8
+  129  vgdisplay 
+  130  vgextend vg01 /dev/sda7
+  131  vgdisplay 
+  132  vgdisplay -v
+  133  vgcreate -s 16M vg02 /dev/sda6
+  134  vgextend vg02 /dev/sda5
+  135  vgdisplay -v |more
+  136  lvdisplay
+  137  lvcreate
+  138  lvcreate --help
+  139  fdisk -l | grep mapper
+  140  lvcreate -L 500M -n data01 vg01
+  141  lvcreate -L 1G -n data02 vg02
+  142  fdisk -l
+  143  lvdisplay
+  144  fdisk -l | grep mapper
+  145  lvdisplay | grep path
+  146  lvdisplay | grep Path
+  147  mkfs.ext4 /dev/vg01/data01 
+  148  mkfs.ext4 /dev/vg02/data02
+  149  ls
+  150  cd
+  151  mkdir data01
+  152  mkdir data02
+  153  df -h
+  154  mount /dev/vg01/data01 data01/
+  155  df -h
+  156  history | grep hist
+  157  uphist
