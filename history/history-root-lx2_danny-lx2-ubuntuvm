@@ -155,3 +155,258 @@
   155  df -h
   156  history | grep hist
   157  uphist
+  158  ls -lrth
+  159  cd data01
+  160  ls
+  161  cat /etc/fstab
+  162  cd /tmo
+  163  cd /tmp
+  164  cat test.sh 
+  165  sl -ltrh
+  166  ls -ltrh
+  167  cd MEMORY/
+  168  ls -ltrh
+  169  cat free_.log 
+  170  ls -ltrh
+  171  date
+  172  cat free_.log 
+  173  cat free_.log ls -ltrh
+  174  ls -ltrh
+  175  cat free_2016-05-31_20\:12\:21.log 
+  176  ls -ltrh
+  177  cd ..
+  178  ls -ltrh
+  179  cd CPU/
+  180  ls -ltrh
+  181  cat topcmd_2016-05-31_20\:17\:43.log 
+  182  cd ../DISK/
+  183  ls -ltrh
+  184  cat iostatcmd_2016-05-31_20\:31\:56.log | more
+  185  ls -ltrh
+  186  cat iostatcmd_2016-05-31_20:34:51.log
+  187  cd ..
+  188  cd NETWORK/
+  189  ls- ltrh
+  190  ls -ltrh
+  191  cat ifconfigcmd_2016-05-31_21:02:13.log
+  192  cat iftopcmd_eth02016-05-31_21:02:13.log
+  193  ls -ltrh
+  194  l;s -ltrh
+  195  ls -ltrh
+  196  cat tcpdumpcmd_eth12016-05-31_21:27:29.log
+  197  ls -ltrh
+  198  cat tcpdumpcmd_eth12016-05-31_21:33:27.log
+  199  crontab -l
+  200  netstat
+  201  top
+  202  man top
+  203  ss
+  204  ss |more
+  205  fdisk
+  206  htop
+  207  free -m
+  208  watch -n 5 free
+  209  free -m
+  210  man free
+  211  free -g
+  212  free -h
+  213  df -h
+  214  bmon
+  215  iftop
+  216  tcptrack 
+  217  sudo apt-get install tcptrack
+  218  tcptrack 
+  219  man tcptrack
+  220  tcptrack -i eth0
+  221  tcptrack -i 
+  222  tcptrack -d
+  223  ifconfig
+  224  tcptrack -i eth1
+  225  tcptrack -i eth1 eth0
+  226  tcptrack -i eth1 > test.txt
+  227  cat test.txt 
+  228  ifconfig
+  229  man tcptrack 
+  230  top > test.txt
+  231  cat test.txt 
+  232  top -b
+  233  while true; do     top -b | grep init >> top-output.txt;     sleep 5; done
+  234  cat top-output.txt 
+  235  while true; do     top >> top-output.txt;     sleep 5; done
+  236  cat  top-output.txt
+  237  while true; do     top -n 1>> top-output.txt;     sleep 5; done
+  238  top -n
+  239  top -n 10
+  240  man top
+  241  top -n 02
+  242  top -n 01
+  243  while true; do     top -n 01 >> top-output.txt;     sleep 5; done
+  244  cat top-output.txt 
+  245  free -h
+  246  mvstat
+  247  vmstat
+  248  htop
+  249  apt-get install htop
+  250  htop
+  251  man htop
+  252  htop
+  253  iostat
+  254  apt-get install sysstat
+  255  iostat
+  256  iftop
+  257  apt-get install iftop
+  258  iftop
+  259  iftop eth1
+  260  iftop -i eth1
+  261  iftop -i eth1 eth0
+  262  iftop -i eth1 > test.txt
+  263  cat test.txt 
+  264  man iostat
+  265  iostat -h
+  266  iostat -h -d 2
+  267  iostat -h -d 2 6
+  268  endtop
+  269  iftop > test.txt& sleep 5; kill $!
+  270  cat test.txt 
+  271  iftop
+  272  iftop -i eth1 > test.txt& sleep 5; kill -9 $!
+  273  jobs
+  274  fg
+  275  cat test.txt 
+  276  iftop -i eth1
+  277  iftop -i eth1 > test.txt& sleep 10; kill -9 $!
+  278  cat test.txt 
+  279  iftop -i eth1 > test.txt
+  280  cat test.txt 
+  281  ls -ltrh
+  282  iftop -i eth1 > test.txt & sleep 10; kill -9 $!
+  283  cat test.txt 
+  284  ls -ltrh
+  285  iftop -i eth1 >> test.txt & sleep 10; kill -9 $!
+  286  cat test.txt 
+  287  timeout 10s iftop -i eth1 >> test.txt
+  288  cat test.txt 
+  289  echo $SHELL
+  290  cd /tmp
+  291  ls -ltrh
+  292  vi test.sh
+  293  chmod 750 test.sh 
+  294  ./test.sh 
+  295  vi test.sh
+  296  ./test.sh 
+  297  vi test.sh
+  298  ./test.sh 
+  299  cd
+  300  vi sys_monitor.sh
+  301  chmod 750 sys_monitor.sh 
+  302  ./sys_monitor.sh disk 5
+  303  vi sys_monitor.sh
+  304  ./sys_monitor.sh disk 5
+  305  vi sys_monitor.sh
+  306  ./sys_monitor.sh disk 5
+  307  ./sys_monitor.sh disk 
+  308  vi sys_monitor.sh
+  309  ./sys_monitor.sh disk 
+  310  ./sys_monitor.sh disk 5
+  311  vi sys_monitor.sh
+  312  ./sys_monitor.sh disk 5
+  313  vi sys_monitor.sh
+  314  ./sys_monitor.sh disk 5
+  315  vi sys_monitor.sh
+  316  ./sys_monitor.sh disk 5
+  317  vi sys_monitor.sh
+  318  ./sys_monitor.sh disk 5
+  319  vi sys_monitor.sh
+  320  ./sys_monitor.sh disk 5
+  321  vi sys_monitor.sh
+  322  ./sys_monitor.sh disk 5
+  323  ls -ltrh
+  324  cd /tmp
+  325  ls -ltrh
+  326  cat test.sh 
+  327  cd -
+  328  vi sys_monitor.sh
+  329  ./sys_monitor.sh disk 5
+  330  vi sys_monitor.sh
+  331  ./sys_monitor.sh disk 5
+  332  vi sys_monitor.sh
+  333  ./sys_monitor.sh disk 5
+  334  vi sys_monitor.sh
+  335  ./sys_monitor.sh disk 5
+  336  vi sys_monitor.sh
+  337  ./sys_monitor.sh disk 5
+  338  vi sys_monitor.sh
+  339  ./sys_monitor.sh disk 5
+  340  vi sys_monitor.sh
+  341  ./sys_monitor.sh disk 5
+  342  vi sys_monitor.sh
+  343  ./sys_monitor.sh disk 5
+  344  vi sys_monitor.sh
+  345  ./sys_monitor.sh memory 5
+  346  vi sys_monitor.sh
+  347  ./sys_monitor.sh memory 5
+  348  vi sys_monitor.sh
+  349  ./sys_monitor.sh memory 5
+  350  vi sys_monitor.sh
+  351  ./sys_monitor.sh memory 5
+  352  ./sys_monitor.sh memory 10
+  353  ls -ltrh
+  354  cat sys_monitor.sh 
+  355  vi sys_monitor.sh
+  356  ./sys_monitor.sh cpu 10
+  357  vi sys_monitor.sh
+  358  ./sys_monitor.sh disk 10
+  359  vi sys_monitor.sh
+  360  ./sys_monitor.sh disk 5
+  361  ifconfig
+  362  ifconfig | cut -d' ' -f1
+  363  ifconfig | cut -d' ' -f1 | sort -d
+  364  ifconfig | cut -d' ' -f1 | sort -a
+  365  man sort
+  366  ifconfig | cut -d' ' -f1 | sort -u
+  367  ifconfig | cut -d' ' -f1 | sort -u | grep -v ' '
+  368  ifconfig | cut -d' ' -f1 | sort -u | grep -v " "
+  369  ifconfig | cut -d' ' -f1 | sort -u -r | grep -v " "
+  370  ifconfig | cut -d' ' -f1 | sort -u -r
+  371  ifconfig | cut -d' ' -f1 | sort -u -r | grep -v '^$'
+  372  timeout 10 iftop -i eth1
+  373  timeout 10 iftop echo"s" -i eth1
+  374  timeout 10 iftop `echo"s"` -i eth1
+  375  timeout 10`echo "s"` iftop -i eth1
+  376  timeout 10s iftop -i eth1
+  377  timeout 10`echo "s"` iftop -i eth1 > test.log
+  378  vi sys_monitor.sh
+  379  ./sys_monitor.sh NETWORK 5
+  380  ./sys_monitor.sh NETWORK 10
+  381  timeout 10s iftop -i eth1
+  382  ksh -x sys_monitor.sh NETWORK 10
+  383  bash -x sys_monitor.sh 
+  384  bash -x sys_monitor.sh NETWORK 10
+  385  bash -x sys_monitor.sh NETWORK 15
+  386  timeout 15s iftop -i eth0 > test.txt
+  387  cat  test.txt
+  388  timeout 15s iftop -i eth1 > test.txt
+  389  cat  test.txt
+  390  man iftop
+  391  timeout 15s iftop -t -i eth1 > test.txt
+  392  man iftop
+  393  iftop -n
+  394  man iftop
+  395  iftop -h
+  396  ifdump
+  397  man iftop
+  398  tcpdump
+  399  man tcpdump
+  400  tcpdump -i eth1
+  401  man tcpdump
+  402  ls -ltrh
+  403  rm test.txt test.log 
+  404  vi sys_monitor.sh 
+  405  ls -ltrh
+  406  sys_monitor NETWORK 10
+  407  ./sys_monitor.sh NETWORK 10
+  408  tcpdump -i eth1 -v
+  409  vi sys_monitor.sh 
+  410  ./sys_monitor.sh NETWORK 15
+  411  env
+  412  uphist

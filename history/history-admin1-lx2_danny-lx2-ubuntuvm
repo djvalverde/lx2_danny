@@ -431,3 +431,22 @@
   431  sudo su -
   432  sudo su -
   433  uphist
+  434  cd lx2_Danny/
+  435  git status
+  436  git commit "Files update"
+  437  git commit -m "Files update"
+  438  git commit -a -m "Files update"
+  439  git push
+  440  sudo su - 
+  441  df -h
+  442  sudo su - 
+  443  uptime
+  444  ifconfgi
+  445  ifconfig
+  446  admin
+  447  sudo su -
+  448  cd /tmp
+  449  ls -ltrh
+  450  cat test.sh 
+  451  sudo su -
+  452  uphist
