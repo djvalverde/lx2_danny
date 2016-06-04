@@ -449,4 +449,33 @@
   449  ls -ltrh
   450  cat test.sh 
   451  sudo su -
-  452  uphist
+  452  sudo su - 
+  453  ifconfig
+  454  sudo su - 
+  455  cd lx2_Danny/
+  456  ls -ltrh
+  457  cd src/
+  458  ls -ltrh
+  459  vi if-then-elif-else.sh
+  460  ls- ltrh
+  461  ls -ltrh
+  462  chmod 750 if-then-elif-else.sh
+  463  ./if-then-elif-else.sh
+  464  ls -ltrh
+  465  git status
+  466  git commit -m "Files update"
+  467  git commit -a -m "Files update"
+  468  git status
+  469  git add if*
+  470  git status
+  471  git commit -a -m "Files update"
+  472  git status
+  473  git add pag7.sh.err 
+  474  git status
+  475  git commit -a -m "Files update"
+  476  git push
+  477  cd ..
+  478  ls -ltrh
+  479  cd history/
+  480  ls -ltrh
+  481  uphist

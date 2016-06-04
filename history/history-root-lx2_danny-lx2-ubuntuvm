@@ -410,3 +410,7 @@
   410  ./sys_monitor.sh NETWORK 15
   411  env
   412  uphist
+  413  ls -ltrh
+  414  pwd
+  415  reboot
+  416  uphist
