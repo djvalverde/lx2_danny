@@ -452,30 +452,359 @@
   452  sudo su - 
   453  ifconfig
   454  sudo su - 
-  455  cd lx2_Danny/
-  456  ls -ltrh
-  457  cd src/
+  455  sudo su -
+  456  ifconfig
+  457  cd ..
   458  ls -ltrh
-  459  vi if-then-elif-else.sh
-  460  ls- ltrh
+  459  pwd
+  460  cd admin1/
   461  ls -ltrh
-  462  chmod 750 if-then-elif-else.sh
-  463  ./if-then-elif-else.sh
-  464  ls -ltrh
-  465  git status
-  466  git commit -m "Files update"
-  467  git commit -a -m "Files update"
-  468  git status
-  469  git add if*
-  470  git status
-  471  git commit -a -m "Files update"
-  472  git status
-  473  git add pag7.sh.err 
-  474  git status
-  475  git commit -a -m "Files update"
-  476  git push
-  477  cd ..
+  462  cd lx2_Danny/
+  463  ls -ltrh
+  464  mkdir -p hojasExcel/hojasDatos
+  465  mkdir -p hojasExcel/src
+  466  ls- ltrh
+  467  ls -ltrh
+  468  mkdir problema2
+  469  mkdir problema3
+  470  ls -ltrh
+  471  mkdir -p hojasExcel/hojasDatos/datos_csv
+  472  ls -ltrh
+  473  ls -ltrh hojasExcel/
+  474  ls -ltrh hojasExcel/*
+  475  cd hojasExcel/
+  476  cd hojasDatos/
+  477  cp ~/Desktop/problema1/hojasDatos/* .
   478  ls -ltrh
-  479  cd history/
-  480  ls -ltrh
-  481  uphist
+  479  cd ..
+  480  cd problema2
+  481  sl -ltrh
+  482  ls -ltrh
+  483  cp ~/Desktop/proyectoFinal/problema2/* .
+  484  ls -ltrh
+  485  cd ..
+  486  cd  problema3
+  487  cp ~/Desktop/proyectoFinal/problema3/* .
+  488  ls -ltrh
+  489  cd ..
+  490  treee
+  491  tree
+  492  git status
+  493  git branch proyecto_programado
+  494  git branch
+  495  git add -h
+  496  git push origin proyecto_programado
+  497  git status
+  498  git checkout proyecto_programado
+  499  git add hojasExcel/
+  500  git add problema*
+  501  git status
+  502  git commit "Initial load"
+  503  git commit -m "Initial load"
+  504  git push
+  505  git checkout master 
+  506  git status
+  507  git add src
+  508  git status
+  509  git commit -m "branch master update"
+  510  git push
+  511  git status
+  512  ls
+  513  ls -ltrh
+  514  cd hojasExcel/
+  515  ls -ltrh
+  516  cd hojasDatos/
+  517  ls -ltrh
+  518  cd ..
+  519  ls -ltrh
+  520  cd lx2_Danny/
+  521  ls -ltrh
+  522  git status
+  523  git checkout proyecto_programado 
+  524  sl -ltrh
+  525  ls -ltrh
+  526  cd hojasExcel/
+  527  ls -ltrh
+  528  cd hojasDatos/
+  529  ls -ltrh
+  530  xls2csv datos1.xls >> ./datos_csv/datos1.csv
+  531  ls -ltrh
+  532  cd datos_csv/
+  533  ls -ltrh
+  534  less datos1.csv 
+  535  ifconfig
+  536  networking service stop
+  537  service networking stop
+  538  service network stop
+  539  sudo service networking stop
+  540  sudo service networking start
+  541  ifconfig
+  542  sudo su -
+  543  ifconfig
+  544  sudo su -
+  545  ifconfig
+  546  sudo su -
+  547  ifconfig
+  548  sudo su -
+  549  sudo su - 
+  550  ifconfig
+  551  ps -ef | grep ssh
+  552  sudo su -
+  553  ls
+  554  cd lx2_Danny/
+  555  ls -ltrh
+  556  ls -ltrh /home/admin1/lx2_Danny/hojasExcel/hojasDatos
+  557  ls -ltrh
+  558  cd problema1
+  559  ls -ltrh
+  560  vi problema1.sh 
+  561  ./problema1.sh 
+  562  ls -lrth
+  563  cat error1.log 
+  564  cat problema1.sh 
+  565  vi problema1.sh 
+  566  ./problema1.sh 
+  567  ls -ltrh
+  568  cat error2.log 
+  569  vi problema1.sh 
+  570  ./problema1.sh 
+  571  ls -ltrh
+  572  date
+  573  cat error1.log 
+  574  cd ..
+  575  ls -ltrh
+  576  cd problema1
+  577  ls- ltrh
+  578  ls -ltrh
+  579  vi problema1.sh 
+  580  ./problema1.sh 
+  581  cd ..
+  582  tree
+  583  ls -ltrh
+  584  cd lx2_Danny/
+  585  git checkout proyecto_programado 
+  586  ls -ltrh
+  587  mkdir problema1
+  588  git status
+  589  ls -ltrh
+  590  tree
+  591  cd hojasExcel/hojasDatos/
+  592  ls -ltrh
+  593  pwd
+  594  cd ..
+  595  cd problema1
+  596  vi problema1.sh
+  597  ls -ltrh
+  598  chmod 750 problema1.sh 
+  599  ./problema1.sh 
+  600  tree
+  601  ls -ltrh
+  602  cat error1.log 
+  603  cd home/admin1/lx2_Danny/hojasExcel/hojasDatos/archivos_csv/
+  604  ls -ltrh
+  605  cd /home/admin1/lx2_Danny/hojasExcel/hojasDatos/archivos_csv/
+  606  cd ..
+  607  ls -ltrh
+  608  cd hojasExcel/
+  609  ls
+  610  cd hojasDatos/
+  611  ls
+  612  cd datos_csv/
+  613  ls -ltrh
+  614  cat data-1.csv
+  615  head -10 data-1.csv
+  616  ls -ltrh
+  617  cdls -ltrh
+  618  cd ..
+  619  ls -ltrh
+  620  mkdir datos_graf
+  621  ls -ltr
+  622  cd datos_graf/
+  623  ls -ltrh
+  624  cd ..
+  625  ls -ltrh
+  626  cd datos_csv/
+  627  ls -ltrh
+  628  rm *.csv
+  629  ls -ltrh
+  630  cd ..
+  631  cd datos_graf/
+  632  ls -ltrh
+  633  file data-1.csv
+  634  man file
+  635  ls -ltrh
+  636  file -l graf-0.dat 
+  637  cd ..
+  638  cd datos_csv/
+  639  ls -ltrh
+  640  rm *.csv
+  641  cd ..
+  642  cd datos_graf/
+  643  ls -ltrh
+  644  cd ..
+  645  cd datos_csv/
+  646  ls -ltrh
+  647  cd ..
+  648  ls -ltrh
+  649  cd datos_csv/
+  650  ls -ltrh
+  651  cat data-0.csv 
+  652  ls -ltrh =/home/admin1/lx2_Danny/hojasExcel/hojasDatos
+  653  ls -ltrh /home/admin1/lx2_Danny/hojasExcel/hojasDatos
+  654  ls -ltrh
+  655  cat hojasDatos/archivos_csv/data-0.csv | awk  F "\",\""
+  656  cat data-0.csv | awk  F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5}' | head
+  657  cat data-0.csv | awk  -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5}' | head
+  658  ls -ltrh
+  659  ls- ltrh
+  660  ls -ltrh
+  661  sl -ltrh
+  662  cd ..
+  663  ls -ltrh
+  664  cd datos_graf/
+  665  ls -ltrh
+  666  cat graf-0.dat
+  667  gnuplot
+  668  sudo apt-get install gnuplot*
+  669  sudo apt-get install gnuplot-x11
+  670  gnuplot
+  671  sudo su - 
+  672  cd lx2_Danny/
+  673  ls -ltrh
+  674  cd problema1
+  675  ls -ltrh
+  676  cd ../hojasExcel/
+  677  ls -ltrh
+  678  cd hojasDatos/
+  679  ls -ltrh
+  680  cd datos_graf/
+  681  ls -ltrh
+  682  gnuplot
+  683  ls -ltrh
+  684  head -15 graf-0.dat 
+  685  gnuplot
+  686  ls -ltrh
+  687  cat graf-1.dat |head
+  688  gnuplot
+  689  gnuplot 
+  690  cat graf-0.dat 
+  691  vi graf-0.dat 
+  692  gnuplot 
+  693  vi graf-0.dat 
+  694  gnuplot 
+  695  vi graf-0.dat 
+  696  gnuplot 
+  697  gnuplot> set xdata time
+  698  ls- ltrh
+  699  ls -ltrh
+  700  vi graf-0.dat 
+  701  gnuplot
+  702  ls -ltrh
+  703  cat graf-0.dat 
+  704  gnuplot
+  705  cat graf-0.dat 
+  706  gnuplot 
+  707  cat graf-0.dat 
+  708  gnuplot 
+  709  ls -ltrh
+  710  rm fig1*
+  711  rm set
+  712  ls -ltrh
+  713  gnuplot 
+  714  cat graf-1.dat 
+  715  gnuplot 
+  716  cd lx2_Danny/
+  717  ls -cd ..
+  718  cd ..
+  719  cd repo-dev/
+  720  git status
+  721  git pull
+  722  cd ../lx2_Danny/
+  723  git status
+  724  history | grep git
+  725  git checkout
+  726  git status
+  727  git commit -m "branch update"
+  728  git add -a  hojasExcel/
+  729  git add -A hojasExcel/
+  730  git status
+  731  ls -ltrh
+  732  git add -A problema1
+  733  git status
+  734  git commit -m "branch update"
+  735  git push 
+  736  ls -ltrh
+  737  cd problema2
+  738  ls -ltrh
+  739  cd ..
+  740  cd hojasExcel/
+  741  ls -ltrh
+  742  cd hojasDatos/
+  743  ls -ltrh
+  744  cd datos_graf/
+  745  ls -ltrh
+  746  cd ..
+  747  ls-kltrh
+  748  ls -ltrh
+  749  cd src/
+  750  ls
+  751  cd ..
+  752  ls -ltrh
+  753  cd src/
+  754  ls -ltrh
+  755  cd ..
+  756  cd problema1
+  757  ls -ltrh
+  758  sudo su -
+  759  admin
+  760  sudo su - 
+  761  cd lx
+  762  ls -lrth
+  763  cd lx2_Danny/
+  764  ls -ltrh
+  765  cd problema
+  766  ls -ltrh
+  767  cd problema1
+  768  ls -ltrh
+  769  ls -ltr
+  770  cd lx2_Danny/
+  771  ls -ltrh
+  772  cd problema
+  773  cd problema1
+  774  ls -ltrh
+  775  cat problema1.sh 
+  776  cd /home/admin1/lx2_Danny/hojasExcel/hojasDatos
+  777  ls -ltrh
+  778  mkdir full_datos
+  779  ls -ltr
+  780  cd ..
+  781  ls -ltrh
+  782  cd ..
+  783  ls -ltrh
+  784  cd problema1
+  785  ls -ltrh
+  786  mv problema1.sh _bkpproblema1.sh
+  787  ls -ltr
+  788  mv _bkpproblema1.sh problema1.sh
+  789  cp problema1.sh bkp_problema1.sh
+  790  ls -ltrh
+  791  vi problema1.sh 
+  792  ./problema1.sh 
+  793  vi problema1.sh 
+  794  ./problema1.sh 
+  795  vi problema1.sh 
+  796  ./problema1.sh 
+  797  vi problema1.sh 
+  798  cat problema1.sh 
+  799  vi problema1.sh 
+  800  git status
+  801  git add error
+  802  cd ..
+  803  git status
+  804  git add problema1/
+  805  git add hojasExcel/
+  806  git status
+  807  git commit -m "Problem1 Finished"
+  808  git status
+  809  git push
+  810  uphist
