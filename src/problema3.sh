@@ -40,6 +40,7 @@ graficar()
 {
 gnuplot << EOF 2> error.log
 
+set grid
 set title "Indice de radiacion solar"
 set ylabel "KW/m2"
 set xdata time

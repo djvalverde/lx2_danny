@@ -32,42 +32,55 @@ let m=m+1
 
 done 2> csv2dat.log
 
-if [ `ls -ltrh $FULL_DATA/all.dat | wc -l` -gt 0 ]
+if [ `ls -ltrh $FULL_DATA/*.dat | wc -l` -gt 0 ]
 then
-         rm $FULL_DATA/all.dat
-         echo "Archivo all.dat borrado"
+         rm $FULL_DATA/*.dat
+         echo "Archivos de Datos borrados"
 fi 2> errorIf.log
 
 
 for k in `find $GRAF_DATA -name "*.dat"`
 do
-cat $k | grep Luz >> $FULL_DATA/all.dat
+cat $k | grep Luz >> $FULL_DATA/luz_all.dat
+cat $k | grep -i agua >> $FULL_DATA/agua_all.dat
          echo "Procesando archivo $k"
 done 2> error3.log
-cat $FULL_DATA/all.dat |  grep '\S' | sort -d > $FULL_DATA/all_2.dat
-mv $FULL_DATA/all_2.dat $FULL_DATA/all.dat
+cat $FULL_DATA/luz_all.dat |  grep '\S' | sort -d > $FULL_DATA/all_2.dat
+mv $FULL_DATA/all_2.dat $FULL_DATA/luz_all.dat
+
+cat $FULL_DATA/agua_all.dat |  grep '\S' | sort -d > $FULL_DATA/agua_all_2.dat
+mv $FULL_DATA/agua_all_2.dat $FULL_DATA/agua_all.dat
 
 FMT_BEGIN='012012'
 FMT_END='032012'
 FMT_X_SHOW=%m%Y
-DATA_DONE=$FULL_DATA/all.dat
-
+DATA_DONE=$FULL_DATA/luz_all.dat
+GRAP_NAME=electricidad.png
 
 graficar()
 {
-gnuplot << EOF 2> error.log
+gnuplot << EOF 2> error_graficar.log
 
-set title "Consumo electrico"
-set ylabel "Miles de Colones"
+set grid
+set title "Consumo"
+set ylabel "Colones"
 set xdata time
 set timefmt "%m%Y"
 set xrange ["$FMT_BEGIN" : "$FMT_END"]
 set format x "$FMT_X_SHOW"
 set terminal png
-set output 'elect.png'
+set output '$GRAP_NAME'
 plot "$DATA_DONE" using 1:3 with lines title "Monto Colones"
 EOF
 
 }
+graficar
+
+FMT_BEGIN='012012'
+FMT_END='062012'
+FMT_X_SHOW=%m%Y
+DATA_DONE=$FULL_DATA/agua_all.dat
+GRAP_NAME=agua.png
 
 graficar
+
