@@ -1,321 +1,3 @@
-    1  sudo reboot
-    2  df -h
-    3  sudo su -
-    4  hostname
-    5  ifconfig
-    6  sudo su -
-    7  ifconfig
-    8  sudo su -
-    9  ifconfig
-   10  ifdown eth0
-   11  sudo su - 
-   12  lsdg
-   13  df -h
-   14  fdisk -l
-   15  sudo su - 
-   16  sudo su -
-   17  ifconfig
-   18  eboot
-   19  sudo reboot
-   20  sudo su -
-   21  git
-   22  pwd
-   23  ls -ltra
-   24  git init
-   25  ls -ltr
-   26  ls -ltra 
-   27  cd .git/
-   28  ls -ltr
-   29  cd branches/
-   30  ls- ltr
-   31  ls -ltr
-   32  ls -ltra
-   33  admin
-   34  cd ..
-   35  tree .git
-   36  sudo apt-get install vim
-   37  vim
-   38  git status 
-   39  git add error/
-   40  pwd
-   41  git add history/
-   42  git add history
-   43  ls -ltra
-   44  cd .git/
-   45  ls -ltra
-   46  cat config 
-   47  cd
-   48  vim ~/.gitconfig
-   49  git config --list
-   50  vim ~/.gitconfig
-   51  git config --list
-   52  vim ~/.gitignore
-   53  git status
-   54  pwd
-   55  ls -ltra 
-   56  git add error/
-   57  ls -ltrh
-   58  ls -ltra
-   59  mkdir lx2_Danny
-   60  cd lx2_Danny/
-   61  error
-   62  mkdir error
-   63  mkdir history
-   64  mkdir src
-   65  mkdir misc
-   66  ls -ltrh
-   67  cd ..
-   68  mv .gitconfig .gitignore ./lx2_Danny/
-   69  git status
-   70  git config --list
-   71  ls -ltra
-   72  cd .g
-   73  cd .git/
-   74  ls -ltr
-   75  cat config 
-   76  cd ../lx2_Danny/
-   77  ls -ltra 
-   78  mv .gitconfig .gitignore ../
-   79  git config --list
-   80  git add error/
-   81  git add history/
-   82  git add src/
-   83  git add misc/
-   84  git status
-   85  touch misc/file.so
-   86  git status
-   87  git add error
-   88  git add history
-   89  git add src
-   90  git add misc
-   91  git status
-   92  cd ..
-   93  git add .gitignore 
-   94  git status
-   95  ls -ltra
-   96  git add lx2_Danny
-   97  git status
-   98  git log
-   99  git status
-  100  git remote add origin https://github.com/djvalverde/lx2_danny.git
-  101  git push -u origin master
-  102  git remote add github https://github.com/djvalverde/lx2_danny.git
-  103  git push -u github master
-  104  git status
-  105  pwd
-  106  ls-ltr
-  107  ls -ltrh
-  108  git add lx2_Danny
-  109  git status
-  110  git add lx2_Danny --force
-  111  git status
-  112  git remove lx2_Danny
-  113  git --help
-  114  git rm lx2_Danny
-  115  git rm -r lx2_Danny
-  116  git rm -r lx2_Danny --force
-  117  git status
-  118  cd lx2_Danny/
-  119  ls -ltr
-  120  mkdr misc
-  121  mkdir misc
-  122  ls- ltr
-  123  ls -ltrh
-  124  git aff error/
-  125  git add error/
-  126  git status
-  127  git status --force
-  128  git add error/ --force
-  129  git status
-  130  cd ..
-  131  ls -ltrh
-  132  ls -ltra
-  133  cat .gitconfig
-  134  cd ..
-  135  cd -
-  136  mv .git ./lx2_Danny/
-  137  mv .gitconfig .gitignore ./lx2_Danny/
-  138  ls -ltr
-  139  cd lx2_Danny/
-  140  ls -ltrh
-  141  git --list
-  142  three
-  143  tree
-  144  ls -ltra 
-  145  git status
-  146  git config --list
-  147  cd .git
-  148  ls -ltr
-  149  ld -ltra
-  150  ls -ltrh
-  151  ls -ltra
-  152  cat config 
-  153  ls -ltrh
-  154  cat .gitconfig
-  155  cd ..
-  156  cd .git/
-  157  cat .gitconfig
-  158  ls -ltrh
-  159  ls -ltra
-  160  cd ..
-  161  ls -ltra
-  162  cat .gitconfig
-  163  git config --list
-  164  ls -ltra
-  165  mv .gitconfig ../
-  166  git config --list
-  167  vi .gitconfig
-  168  ls -ltrh
-  169  ls -ltra
-  170  cd ..
-  171  ls -ltra
-  172  vi .gitconfig
-  173  git config --list
-  174  cd ..
-  175  cd 
-  176  cd lx2_Danny/
-  177  ls -ltra
-  178  git add error/
-  179  git status
-  180  git add error/ --force
-  181  git status
-  182  git add src/
-  183  git add history/
-  184  git add error/
-  185  git status
-  186  ls -ltr
-  187  ls- ltra
-  188  rm -Rf .git
-  189  sudo apt-get install git
-  190  ls -ltr
-  191  ls- ltra
-  192  ls -ltra
-  193  cd ..
-  194  ls -ltra
-  195  sudo apt-get remove git
-  196  sudo apt-get purge git
-  197  sudo apt-get install git
-  198  ls -ltra
-  199  cd lx2_Danny/
-  200  ls -ltra
-  201  git init
-  202  ls -ltra
-  203  git config --list
-  204  git status
-  205  git add error/
-  206  git status
-  207  git add error/ --force
-  208  git status
-  209  git add error/*
-  210  git add error
-  211  git status
-  212  git add 
-  213  git add --help
-  214  git add error/\*
-  215  git add error/
-  216  git status
-  217  ls -ltrh
-  218  git add error/ --force
-  219  git status
-  220  git push
-  221  git push -u master
-  222  git remote add origin https://github.com/djvalverde/lx2_danny.git
-  223  git push -u origin master
-  224  git remote rm origin https://github.com/djvalverde/lx2_danny.git
-  225  git remote remove origin https://github.com/djvalverde/lx2_danny.git
-  226  git remote remove https://github.com/djvalverde/lx2_danny.git
-  227  git remote remove origin https://github.com/djvalverde/lx2_danny.git
-  228  git remote --help
-  229  !
-  230  git remote
-  231  git add error
-  232  git status
-  233  git remote add github https://github.com/djvalverde/lx2_danny.git
-  234  git push -u github master
-  235  git commit -m "Inicializacion del arbol de desarrollo"
-  236  git status
-  237  git remote add origin https://github.com/djvalverde/lx2_danny.git
-  238  git push -u origin master
-  239  git config --list
-  240  cd .git/
-  241  ls -ltra
-  242  vi config 
-  243  cd ..
-  244  ls-ltr
-  245  hls -ltrh
-  246  ls -ltrh
-  247  cd .git/
-  248  git remote add origin https://github.com/djvalverde/lx2_danny.git
-  249  git push -u origin master
-  250  git config --list
-  251  git remote add github https://github.com/djvalverde/lx2_danny.git
-  252  git push -u github master
-  253  git remote
-  254  git remote github 
-  255  git remote remove  github
-  256  git remote remove  origin
-  257  git remote
-  258  git remote add origin https://github.com/djvalverde/lx2_danny.git
-  259  git push -u origin master
-  260  echo "# lx2_danny" >> README.md
-  261  git add README.md
-  262  cd ..
-  263  ls-ltrh
-  264  ls -ltrh
-  265  tree
-  266  git add README.md
-  267  echo "# lx2_danny" >> README.md
-  268  git add README.md
-  269  git status
-  270  git commit -m "first commit"
-  271  git remote add origin https://github.com/djvalverde/lx2_danny.git
-  272  git push -u origin master
-  273  git status
-  274  ls-ltr
-  275  ls -ltr
-  276  git add error
-  277  git status
-  278  git add history
-  279  git add src
-  280  git add misc
-  281  git remote add origin https://github.com/djvalverde/lx2_danny.git
-  282  git push -u origin master
-  283  git remote add github https://github.com/djvalverde/lx2_danny.git
-  284  git push -u github master
-  285  git remote 
-  286  ls -ltrh
-  287  chmod 777 error
-  288  gti add error/
-  289  git add error
-  290  git status
-  291  cd error
-  292  touch test.txt
-  293  cd ..
-  294  git add error
-  295  git status
-  296  ls -ltrh
-  297  chmod 776 error/
-  298  ls -ltrh
-  299  chmod 775 error/
-  300  ls -ltrh
-  301  history >> ./history/hostory-user_`hostname`
-  302  cd history/
-  303  ls -ltrh
-  304  mv hostory-user_lx2-ubuntuvm history-user_lx2-ubuntuvm
-  305  cd ..
-  306  git add  history/
-  307  git status
-  308  ls -ltrh
-  309  cp README.md ./src
-  310  cp README.md ./misc/
-  311  git add misc 
-  312  git add src
-  313  git status
-  314  git commit -m "Folders creation"
-  315  git status
-  316  git push
-  317  git log
-  318  sudo su -
   319  tree .gti
   320  tree .git
   321  ls -ltr
@@ -452,30 +134,867 @@
   452  sudo su - 
   453  ifconfig
   454  sudo su - 
-  455  cd lx2_Danny/
-  456  ls -ltrh
-  457  cd src/
+  455  sudo su -
+  456  ifconfig
+  457  cd ..
   458  ls -ltrh
-  459  vi if-then-elif-else.sh
-  460  ls- ltrh
+  459  pwd
+  460  cd admin1/
   461  ls -ltrh
-  462  chmod 750 if-then-elif-else.sh
-  463  ./if-then-elif-else.sh
-  464  ls -ltrh
-  465  git status
-  466  git commit -m "Files update"
-  467  git commit -a -m "Files update"
-  468  git status
-  469  git add if*
-  470  git status
-  471  git commit -a -m "Files update"
-  472  git status
-  473  git add pag7.sh.err 
-  474  git status
-  475  git commit -a -m "Files update"
-  476  git push
-  477  cd ..
+  462  cd lx2_Danny/
+  463  ls -ltrh
+  464  mkdir -p hojasExcel/hojasDatos
+  465  mkdir -p hojasExcel/src
+  466  ls- ltrh
+  467  ls -ltrh
+  468  mkdir problema2
+  469  mkdir problema3
+  470  ls -ltrh
+  471  mkdir -p hojasExcel/hojasDatos/datos_csv
+  472  ls -ltrh
+  473  ls -ltrh hojasExcel/
+  474  ls -ltrh hojasExcel/*
+  475  cd hojasExcel/
+  476  cd hojasDatos/
+  477  cp ~/Desktop/problema1/hojasDatos/* .
   478  ls -ltrh
-  479  cd history/
-  480  ls -ltrh
-  481  uphist
+  479  cd ..
+  480  cd problema2
+  481  sl -ltrh
+  482  ls -ltrh
+  483  cp ~/Desktop/proyectoFinal/problema2/* .
+  484  ls -ltrh
+  485  cd ..
+  486  cd  problema3
+  487  cp ~/Desktop/proyectoFinal/problema3/* .
+  488  ls -ltrh
+  489  cd ..
+  490  treee
+  491  tree
+  492  git status
+  493  git branch proyecto_programado
+  494  git branch
+  495  git add -h
+  496  git push origin proyecto_programado
+  497  git status
+  498  git checkout proyecto_programado
+  499  git add hojasExcel/
+  500  git add problema*
+  501  git status
+  502  git commit "Initial load"
+  503  git commit -m "Initial load"
+  504  git push
+  505  git checkout master 
+  506  git status
+  507  git add src
+  508  git status
+  509  git commit -m "branch master update"
+  510  git push
+  511  git status
+  512  ls
+  513  ls -ltrh
+  514  cd hojasExcel/
+  515  ls -ltrh
+  516  cd hojasDatos/
+  517  ls -ltrh
+  518  cd ..
+  519  ls -ltrh
+  520  cd lx2_Danny/
+  521  ls -ltrh
+  522  git status
+  523  git checkout proyecto_programado 
+  524  sl -ltrh
+  525  ls -ltrh
+  526  cd hojasExcel/
+  527  ls -ltrh
+  528  cd hojasDatos/
+  529  ls -ltrh
+  530  xls2csv datos1.xls >> ./datos_csv/datos1.csv
+  531  ls -ltrh
+  532  cd datos_csv/
+  533  ls -ltrh
+  534  less datos1.csv 
+  535  ifconfig
+  536  networking service stop
+  537  service networking stop
+  538  service network stop
+  539  sudo service networking stop
+  540  sudo service networking start
+  541  ifconfig
+  542  sudo su -
+  543  ifconfig
+  544  sudo su -
+  545  ifconfig
+  546  sudo su -
+  547  ifconfig
+  548  sudo su -
+  549  sudo su - 
+  550  ifconfig
+  551  ps -ef | grep ssh
+  552  sudo su -
+  553  ls
+  554  cd lx2_Danny/
+  555  ls -ltrh
+  556  ls -ltrh /home/admin1/lx2_Danny/hojasExcel/hojasDatos
+  557  ls -ltrh
+  558  cd problema1
+  559  ls -ltrh
+  560  vi problema1.sh 
+  561  ./problema1.sh 
+  562  ls -lrth
+  563  cat error1.log 
+  564  cat problema1.sh 
+  565  vi problema1.sh 
+  566  ./problema1.sh 
+  567  ls -ltrh
+  568  cat error2.log 
+  569  vi problema1.sh 
+  570  ./problema1.sh 
+  571  ls -ltrh
+  572  date
+  573  cat error1.log 
+  574  cd ..
+  575  ls -ltrh
+  576  cd problema1
+  577  ls- ltrh
+  578  ls -ltrh
+  579  vi problema1.sh 
+  580  ./problema1.sh 
+  581  cd ..
+  582  tree
+  583  ls -ltrh
+  584  cd lx2_Danny/
+  585  git checkout proyecto_programado 
+  586  ls -ltrh
+  587  mkdir problema1
+  588  git status
+  589  ls -ltrh
+  590  tree
+  591  cd hojasExcel/hojasDatos/
+  592  ls -ltrh
+  593  pwd
+  594  cd ..
+  595  cd problema1
+  596  vi problema1.sh
+  597  ls -ltrh
+  598  chmod 750 problema1.sh 
+  599  ./problema1.sh 
+  600  tree
+  601  ls -ltrh
+  602  cat error1.log 
+  603  cd home/admin1/lx2_Danny/hojasExcel/hojasDatos/archivos_csv/
+  604  ls -ltrh
+  605  cd /home/admin1/lx2_Danny/hojasExcel/hojasDatos/archivos_csv/
+  606  cd ..
+  607  ls -ltrh
+  608  cd hojasExcel/
+  609  ls
+  610  cd hojasDatos/
+  611  ls
+  612  cd datos_csv/
+  613  ls -ltrh
+  614  cat data-1.csv
+  615  head -10 data-1.csv
+  616  ls -ltrh
+  617  cdls -ltrh
+  618  cd ..
+  619  ls -ltrh
+  620  mkdir datos_graf
+  621  ls -ltr
+  622  cd datos_graf/
+  623  ls -ltrh
+  624  cd ..
+  625  ls -ltrh
+  626  cd datos_csv/
+  627  ls -ltrh
+  628  rm *.csv
+  629  ls -ltrh
+  630  cd ..
+  631  cd datos_graf/
+  632  ls -ltrh
+  633  file data-1.csv
+  634  man file
+  635  ls -ltrh
+  636  file -l graf-0.dat 
+  637  cd ..
+  638  cd datos_csv/
+  639  ls -ltrh
+  640  rm *.csv
+  641  cd ..
+  642  cd datos_graf/
+  643  ls -ltrh
+  644  cd ..
+  645  cd datos_csv/
+  646  ls -ltrh
+  647  cd ..
+  648  ls -ltrh
+  649  cd datos_csv/
+  650  ls -ltrh
+  651  cat data-0.csv 
+  652  ls -ltrh =/home/admin1/lx2_Danny/hojasExcel/hojasDatos
+  653  ls -ltrh /home/admin1/lx2_Danny/hojasExcel/hojasDatos
+  654  ls -ltrh
+  655  cat hojasDatos/archivos_csv/data-0.csv | awk  F "\",\""
+  656  cat data-0.csv | awk  F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5}' | head
+  657  cat data-0.csv | awk  -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5}' | head
+  658  ls -ltrh
+  659  ls- ltrh
+  660  ls -ltrh
+  661  sl -ltrh
+  662  cd ..
+  663  ls -ltrh
+  664  cd datos_graf/
+  665  ls -ltrh
+  666  cat graf-0.dat
+  667  gnuplot
+  668  sudo apt-get install gnuplot*
+  669  sudo apt-get install gnuplot-x11
+  670  gnuplot
+  671  sudo su - 
+  672  cd lx2_Danny/
+  673  ls -ltrh
+  674  cd problema1
+  675  ls -ltrh
+  676  cd ../hojasExcel/
+  677  ls -ltrh
+  678  cd hojasDatos/
+  679  ls -ltrh
+  680  cd datos_graf/
+  681  ls -ltrh
+  682  gnuplot
+  683  ls -ltrh
+  684  head -15 graf-0.dat 
+  685  gnuplot
+  686  ls -ltrh
+  687  cat graf-1.dat |head
+  688  gnuplot
+  689  gnuplot 
+  690  cat graf-0.dat 
+  691  vi graf-0.dat 
+  692  gnuplot 
+  693  vi graf-0.dat 
+  694  gnuplot 
+  695  vi graf-0.dat 
+  696  gnuplot 
+  697  gnuplot> set xdata time
+  698  ls- ltrh
+  699  ls -ltrh
+  700  vi graf-0.dat 
+  701  gnuplot
+  702  ls -ltrh
+  703  cat graf-0.dat 
+  704  gnuplot
+  705  cat graf-0.dat 
+  706  gnuplot 
+  707  cat graf-0.dat 
+  708  gnuplot 
+  709  ls -ltrh
+  710  rm fig1*
+  711  rm set
+  712  ls -ltrh
+  713  gnuplot 
+  714  cat graf-1.dat 
+  715  gnuplot 
+  716  cd lx2_Danny/
+  717  ls -cd ..
+  718  cd ..
+  719  cd repo-dev/
+  720  git status
+  721  git pull
+  722  cd ../lx2_Danny/
+  723  git status
+  724  history | grep git
+  725  git checkout
+  726  git status
+  727  git commit -m "branch update"
+  728  git add -a  hojasExcel/
+  729  git add -A hojasExcel/
+  730  git status
+  731  ls -ltrh
+  732  git add -A problema1
+  733  git status
+  734  git commit -m "branch update"
+  735  git push 
+  736  ls -ltrh
+  737  cd problema2
+  738  ls -ltrh
+  739  cd ..
+  740  cd hojasExcel/
+  741  ls -ltrh
+  742  cd hojasDatos/
+  743  ls -ltrh
+  744  cd datos_graf/
+  745  ls -ltrh
+  746  cd ..
+  747  ls-kltrh
+  748  ls -ltrh
+  749  cd src/
+  750  ls
+  751  cd ..
+  752  ls -ltrh
+  753  cd src/
+  754  ls -ltrh
+  755  cd ..
+  756  cd problema1
+  757  ls -ltrh
+  758  sudo su -
+  759  admin
+  760  sudo su - 
+  761  cd lx
+  762  ls -lrth
+  763  cd lx2_Danny/
+  764  ls -ltrh
+  765  cd problema
+  766  ls -ltrh
+  767  cd problema1
+  768  ls -ltrh
+  769  ls -ltr
+  770  cd lx2_Danny/
+  771  ls -ltrh
+  772  cd problema
+  773  cd problema1
+  774  ls -ltrh
+  775  cat problema1.sh 
+  776  cd /home/admin1/lx2_Danny/hojasExcel/hojasDatos
+  777  ls -ltrh
+  778  mkdir full_datos
+  779  ls -ltr
+  780  cd ..
+  781  ls -ltrh
+  782  cd ..
+  783  ls -ltrh
+  784  cd problema1
+  785  ls -ltrh
+  786  mv problema1.sh _bkpproblema1.sh
+  787  ls -ltr
+  788  mv _bkpproblema1.sh problema1.sh
+  789  cp problema1.sh bkp_problema1.sh
+  790  ls -ltrh
+  791  vi problema1.sh 
+  792  ./problema1.sh 
+  793  vi problema1.sh 
+  794  ./problema1.sh 
+  795  vi problema1.sh 
+  796  ./problema1.sh 
+  797  vi problema1.sh 
+  798  cat problema1.sh 
+  799  vi problema1.sh 
+  800  git status
+  801  git add error
+  802  cd ..
+  803  git status
+  804  git add problema1/
+  805  git add hojasExcel/
+  806  git status
+  807  git commit -m "Problem1 Finished"
+  808  git status
+  809  git push
+  810  uphist
+  811  git status
+  812  git commit -m "History Update"
+  813  git status
+  814  git push
+  815  git status
+  816  git add history/
+  817  git status
+  818  git commit -m "History Update"
+  819  git status
+  820  git push
+  821  admin
+  822  sudo su 
+  823  cd /home/admin1/lx2_Danny/hojasExcel/hojasDatos/datos_graf/
+  824  ls -ltrh
+  825  ls -ltr
+  826  cd lx2_Danny/
+  827  ls -ltrh
+  828  cd problema
+  829  cd problema2
+  830  ls -ltr
+  831  cd ..
+  832  cd src
+  833  ls -ltrh
+  834  vi problema2.sh
+  835  chmod 755 problema2.sh 
+  836  ./problema2.sh 
+  837  vi problema2.sh
+  838  ./problema2.sh 
+  839  ls -ltrh 
+  840  cd ..
+  841  cd problema2
+  842  ls -ltrh
+  843  ls ls -ltrh | sed 's/bills//'
+  844  ls -ltrh | sed 's/bills//'
+  845  ls -ltrh
+  846  cd ../src/
+  847  ls -ltrh
+  848  vi problema2.sh 
+  849  ./problema2.sh 
+  850  vi problema2.sh 
+  851  ./problema2.sh 
+  852  vi problema2.sh 
+  853  ./problema2.sh 
+  854  ls -ltrh
+  855  cat error_xls2csv.log
+  856  vi problema2.sh 
+  857  ./problema2.sh 
+  858  vi problema2.sh 
+  859  ./problema2.sh 
+  860  vi problema2.sh 
+  861  ./problema2.sh 
+  862  cat problema2.sh 
+  863  vi problema2.sh 
+  864  ./problema2.sh 
+  865  vi problema2.sh 
+  866  ./problema2.sh 
+  867  vi problema2.sh 
+  868  ./problema2.sh 
+  869  cat problema2.sh 
+  870  ls -ltrh
+  871  cat error_xls2csv.log
+  872  cd ..
+  873  cd problema1
+  874  ls -ltrh
+  875  cd ..
+  876  cd hojasExcel/
+  877  ls -ltrh
+  878  cd hojasDatos/
+  879  ls -ltrh
+  880  cat full_datos/
+  881  ls -ltrh
+  882  cd full_datos/
+  883  ls -ltrh
+  884  cat full.dat 
+  885  cd lx2_Danny/
+  886  cd problema2
+  887  ls -ltrh
+  888  pwd
+  889  ls-ltrh
+  890  ls -ltrh
+  891  cd archivos_csv/
+  892  ls -ltrh
+  893  cd ..
+  894  ls -ltrh
+  895  cd datos_
+  896  cd datos_csv/
+  897  ls -ltrh
+  898  more data-1.csv
+  899  cd ..
+  900  ls -ltrh
+  901  rm -Rf archivos_csv
+  902  ls -ltrh
+  903  du -sh *
+  904  cd datos_csv/
+  905  ls -ltrh
+  906  head -50 data-0.csv
+  907  ls -ltrh
+  908  sed data-1.csv 's/data/DATA'
+  909  sed -e data-1.csv 's/data/DATA'
+  910  sed -n data-1.csv 's/data/DATA'
+  911  sed "data-1.csv" 's/data/DATA'
+  912  sed -s "data-1.csv" 's/data/DATA'
+  913  sed -e "data-1.csv" 's/data/DATA'
+  914  sed `echo data-1.csv` 's/data/DATA'
+  915  ls -ltrh
+  916  rm *.csv
+  917  ls -ltrh
+  918  rm *.csv
+  919  rm -f *.csv
+  920  rm *
+  921  rm data-1*
+  922  rm *.csv
+  923  ls -ltrh
+  924  rm bills*
+  925  ls
+  926  ls -ltrh
+  927  rm data*
+  928  ls -ltrh
+  929  rm -data.csv problema2.csv
+  930  rm "problema2.csv"
+  931  rm "-data.csv"
+  932  ls -ltrh
+  933  rm '-data.csv'
+  934  rm *data
+  935  ls -ltrh
+  936  cat 01_2012.csv |  awk -F "\",\""
+  937  cat 01_2012.csv |  awk -F "\",\"" > test.txt
+  938  cat test.txt 
+  939  cat 01_2012.csv |  | awk -F "\",\"" '{print $1 " " $2 " " $3 " "$4 " " $5}' > test.txt
+  940  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "$4 " " $5}' > test.txt
+  941  cat test.txt 
+  942  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' > test.txt
+  943  cat test.txt 
+  944  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed '1,$ s/"//g'> test.txt
+  945  cat test.txt 
+  946  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/"//g' -e 's/'//'> test.txt
+  947  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/"//g' -e 's/,//'> test.txt
+  948  cat test.txt 
+  949  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/"//g' -e 's/\,//'> test.txt
+  950  cat test.txt 
+  951  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/"//g' -e 's/\,//'> test.txt
+  952  cat test.txt 
+  953  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed 's/\,//'> test.txt
+  954  cat test.txt 
+  955  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed 's/,/ /'> test.txt
+  956  cat test.txt 
+  957  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed 's/\,\,//'> test.txt
+  958  cat test.txt 
+  959  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed 's/\,/"/'> test.txt
+  960  cat test.txt 
+  961  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -i 's/\,/"/'> test.txt
+  962  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e 's/\,/"/'> test.txt
+  963  cat test.txt 
+  964  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e 's/,/|/'> test.txt
+  965  cat test.txt 
+  966  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e 's/,\/|/'> test.txt
+  967  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e 's/,\//'> test.txt
+  968  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e 's/,//'> test.txt
+  969  cat test.txt 
+  970  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//'> test.txt
+  971  cat test.txt 
+  972  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/\,//'> test.txt
+  973  cat test.txt 
+  974  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/\,//'> test.txt
+  975  cat test.txt 
+  976  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s//,/'> test.txt
+  977  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s//\,/'> test.txt
+  978  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed '1,$ s//\,/'> test.txt
+  979  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed '1,$ s/,//g'> test.txt
+  980  cat test.txt 
+  981  cat test.txt cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g'> test.txt
+  982  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g'> test.txt
+  983  cat test.txt 
+  984  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' -e '1,$ s/^ //g'> test.txt
+  985  cat test.txt 
+  986  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' -e '1,$ s/^//g'> test.txt
+  987  cat test.txt 
+  988  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' -e '1,$ s/^$//g'> test.txt
+  989  cat test.txt 
+  990  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' -e '1,$ /^$//'> test.txt
+  991  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' -e '1,$ s/^\s//g'> test.txt
+  992  cat test.txt 
+  993  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' | head -10 > test.txt
+  994  cat test.txt 
+  995  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' | head -11 > test.txt
+  996  cat test.txt 
+  997  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' | egrep -v "^$" > test.txt
+  998  cat test.txt 
+  999  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' | grep -v "^$" > test.txt
+ 1000  cat test.txt 
+ 1001  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' -e '/^$/d' > test.txt
+ 1002  cat test.txt 
+ 1003  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' -e '1,$ /^$/d' > test.txt
+ 1004  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' -e '1,$ s/^$//g' > test.txt
+ 1005  cat  test.txt 
+ 1006  pwd
+ 1007  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' |  grep '\S' > test.txt
+ 1008  cat test.txt 
+ 1009  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' |  grep '\S' | head -10 > test.txt
+ 1010  cat test.txt 
+ 1011  cd ..
+ 1012  ls -ltrh
+ 1013  cd datos_graf/
+ 1014  ls -lth
+ 1015  ls -ltrh
+ 1016  cat 01_2012.dat
+ 1017  cat 02_2012.dat
+ 1018  ls -ltrh
+ 1019  cd ..
+ 1020  ls -ltrh
+ 1021  cd datos_csv/
+ 1022  ls -ltrh
+ 1023  rm ./*.csv
+ 1024  ls -ltr
+ 1025  hcd ..
+ 1026  cd ..
+ 1027  cd datos_graf/
+ 1028  ls -ltrh
+ 1029  rm ./*.dat
+ 1030  ls -ltrh
+ 1031  ls -ltrh | sort
+ 1032  ls -ltrh | sort -n
+ 1033  ls -ltrh | sort -u
+ 1034  ls -ltrh 
+ 1035  man sort
+ 1036  !
+ 1037  ls -ltrh | sort -d
+ 1038  ls -ltrh | sort -n
+ 1039  ls -ltrh | grep *.dat |sort -n
+ 1040  ls -ltrh | grep dat |sort -n
+ 1041  ls -ltrh | grep dat |sort -n | print $8
+ 1042  ls -ltrh | grep dat |sort -n | print $0
+ 1043  ls -ltrh | grep dat |sort -n | print 8
+ 1044  find . -name "*.dat"
+ 1045  find . -name "*.dat" |sort -n 
+ 1046  find . -name "*.dat" |sort -d
+ 1047  find . -name "*.dat" |sort -d |head -3
+ 1048  find . -name "*.dat" |sort -d |head -3 | cat
+ 1049  sudo su -
+ 1050  sudo su - root
+ 1051  cd lx2_Danny/
+ 1052  ls -ltrh
+ 1053  cd problema2
+ 1054  ls -ltrh
+ 1055  cd datos_csv/
+ 1056  ls -ltrh
+ 1057  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' |  grep '\S' | head -10
+ 1058  cat 012012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/,//g' -e '1,$ s/"//g' |  grep '\S' | head -10
+ 1059  ls -ltrh
+ 1060  cd ..
+ 1061  ls -ltrh
+ 1062  cd datos_graf/
+ 1063  ls -ltrh
+ 1064  cat 012012.dat
+ 1065  ls -ltrh
+ 1066  cat 012012.dat
+ 1067  ls -ltrh
+ 1068  cat 022012.dat | grep Luz
+ 1069  cat 022012.dat | grep Luz | grep Mes
+ 1070  ls -ltrh
+ 1071  cd ..
+ 1072  ls -ltrh
+ 1073  cd full_datos/
+ 1074  ls -ltrh
+ 1075  cat all.dat 
+ 1076  cat all.dat | sort -d
+ 1077  ls -ltrh
+ 1078  cat all2.dat 
+ 1079  cat all2.dat | sort -d
+ 1080  cat all2.dat | sort -i
+ 1081  man sort
+ 1082  cat all2.dat | sort -c
+ 1083  cat all2.dat | sort -u
+ 1084  ls -ltrh
+ 1085  cd lx2_Danny/
+ 1086  ls -ltrh
+ 1087  cd src/
+ 1088  ls -ltr
+ 1089  vi problema2.sh 
+ 1090  ./problema2.sh 
+ 1091  vi problema2.sh 
+ 1092  ./problema2.sh 
+ 1093  vi problema2.sh 
+ 1094  ./problema2.sh 
+ 1095  vi problema2.sh 
+ 1096  ./problema2.sh 
+ 1097  vi problema2.sh 
+ 1098  ./problema2.sh 
+ 1099  cat problema2.sh 
+ 1100  vi problema2.sh 
+ 1101  cat problema2.sh 
+ 1102  ./problema2.sh 
+ 1103  vi problema2.sh 
+ 1104  ./problema2.sh 
+ 1105  vi problema2.sh 
+ 1106  ./problema2.sh 
+ 1107  vi problema2.sh 
+ 1108  ./problema2.sh 
+ 1109  vi problema2.sh 
+ 1110  ./problema2.sh 
+ 1111  sudo su -
+ 1112  cd lx2_Danny/
+ 1113  ls -ltrh
+ 1114  cd problema2
+ 1115  ls -ltrh
+ 1116  cd full_datos/
+ 1117  ls -ltrh
+ 1118  em ./all*
+ 1119  rm ./all*
+ 1120  ls -ltrh
+ 1121  cat all_2.dat 
+ 1122  ls -ltrh
+ 1123  rm ./all*
+ 1124  ls -ltrh
+ 1125  cat all.dat 
+ 1126  rm all.dat 
+ 1127  ls -ltrh
+ 1128  cat all.dat 
+ 1129  sl -ltrh
+ 1130  ls -ltrh
+ 1131  ls- ltrh
+ 1132  ls -ltrh
+ 1133  cat all.dat 
+ 1134  ls -ltrh
+ 1135  cat all.dat 
+ 1136  rm ./all.dat 
+ 1137  cat all.dat 
+ 1138  ls -ltrh
+ 1139  cd lx2_Danny/
+ 1140  ls -ltrh
+ 1141  cd src/
+ 1142  ls -ltrh
+ 1143  cat errorIf.log 
+ 1144  vi problema2.sh 
+ 1145  ./problema2.sh 
+ 1146  vi problema2.sh 
+ 1147  ./problema2.sh 
+ 1148  vi problema2.sh 
+ 1149  ./problema2.sh 
+ 1150  vi problema2.sh 
+ 1151  ./problema2.sh 
+ 1152  vi problema2.sh 
+ 1153  ./problema2.sh 
+ 1154  cat problema2.sh 
+ 1155  vi problema2.sh 
+ 1156  ./problema2.sh 
+ 1157  ls -ltrh
+ 1158  cat error.log 
+ 1159  vi problema2.sh 
+ 1160  ./problema2.sh 
+ 1161  ls -ltrh
+ 1162  cat error.log
+ 1163  ls -ltrh
+ 1164  vi problema2.sh 
+ 1165  ./problema2.sh 
+ 1166  ls -ltrh
+ 1167  cat error.log
+ 1168  date
+ 1169  vi problema2.sh 
+ 1170  ./problema2.sh 
+ 1171  ls -ltrh
+ 1172  cat error.log 
+ 1173  cat errorIf.log
+ 1174  vi problema2.sh 
+ 1175  ./problema2.sh 
+ 1176  ls -ltrh
+ 1177  cat error.log
+ 1178  vi problema2.sh 
+ 1179  ./problema2.sh 
+ 1180  ls -ltrh
+ 1181  pwd
+ 1182  vi problema2.sh 
+ 1183  ./problema2.sh 
+ 1184  ls -ltrh
+ 1185  vi problema2.sh 
+ 1186  ./problema2.sh 
+ 1187  vi problema2.sh 
+ 1188  ./problema2.sh 
+ 1189  vi problema2.sh 
+ 1190  ./problema2.sh 
+ 1191  ls -ltrh
+ 1192  cd lx2_Danny/
+ 1193  ls -ltrh
+ 1194  cd problema3
+ 1195  ls -ltrh
+ 1196  cat Datos 
+ 1197  cd ..
+ 1198  cd problema2
+ 1199  ls -ltrh
+ 1200  cd ..
+ 1201  cd src/
+ 1202  ls -ltrh
+ 1203  cat  problema2.sh
+ 1204  vi problema3.sh 
+ 1205  ./problema3.sh 
+ 1206  chmod 755 problema3.sh 
+ 1207  ./problema3.sh 
+ 1208  cat problema3.sh 
+ 1209  vi problema3.sh 
+ 1210  ./problema3.sh 
+ 1211  vi problema3.sh 
+ 1212  ./problema3.sh 
+ 1213  vi problema3.sh 
+ 1214  ./problema3.sh 
+ 1215  vi problema3.sh 
+ 1216  ./problema3.sh 
+ 1217  vi problema3.sh 
+ 1218  ./problema3.sh 
+ 1219  vi problema3.sh 
+ 1220  cd /home/admin1/lx2_Danny/problema3
+ 1221  ls -ltrh
+ 1222  ld
+ 1223  ls -ltrh
+ 1224  mkdir datos_csv
+ 1225  cp Datos  ./datos_csv/
+ 1226  ls -ltrh
+ 1227  cd datos_csv/
+ 1228  ls -ltrh
+ 1229  cat Datos 
+ 1230  cat Datos | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7 " "}' | sed -e '1d'
+ 1231  cat Datos | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7 " "}' | sed -e '1d' | more
+ 1232  cat Datos | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7 " "}' | sed -e '1d' -e '2,3d' | more
+ 1233  cat Datos | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7 " "}' | sed -e '1d' -e '3,4d' | more
+ 1234  ls -ltrh
+ 1235  cat 
+ 1236  cat Datos 
+ 1237  cd ..
+ 1238  ls -ltrh
+ 1239  cd datos_graf/
+ 1240  ls -ltrh
+ 1241  cat Datos.dat 
+ 1242  cat Datos.dat | more 
+ 1243  ls -ltrh
+ 1244  more Datos.dat 
+ 1245  pwd
+ 1246  cat Datos.dat | more
+ 1247  cat Datos.dat | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7}' | sed -e '1,$ s/,/ /g' -e '1d' -e '3,4d' -e  '1,$ s/"//g'|  grep '\S' | more
+ 1248  cd ..
+ 1249  cd datos_csv/
+ 1250  ls -ltrh
+ 1251  cat $e | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7}' | sed -e '1,$ s/,/ /g' -e '1d' -e '3,4d' -e  '1,$ s/"//g'|  grep '\S' | more
+ 1252  cat Datos | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7}' | sed -e '1,$ s/,/ /g' -e '1d' -e '3,4d' -e  '1,$ s/"//g'|  grep '\S' | more
+ 1253  ls -ltrh
+ 1254  more Datos 
+ 1255  ls -ltrh
+ 1256  cd ..
+ 1257  cd  datos_csv/
+ 1258  ls -ltrh
+ 1259  dat
+ 1260  date
+ 1261  sudo su - root
+ 1262  cd ~/lx2_Danny/problema3/
+ 1263  ls
+ 1264  ls -ltrh
+ 1265  cd datos_csv/
+ 1266  ls -ltrh
+ 1267  cat Datos | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7}' | sed -e '1,$ s/,/|/g' -e '1d' -e '3,4d' | grep '\S' | more
+ 1268  cat Datos | awk -F "\",\"" '{print $1 $3}' | more
+ 1269  cat Datos | awk -F "\",\"" '{print $1 " " $6 " " $7}' | sed -e '1,$ s/,/|/g' -e '1d' -e '3,4d' | grep '\S' | more
+ 1270  cd ..
+ 1271  c d..
+ 1272  cd ..
+ 1273  cd problema2
+ 1274  ls-ltrh
+ 1275  ls -ltrh
+ 1276  cd datos_csv/
+ 1277  ls -ltrh
+ 1278  cat 012012.csv
+ 1279  cat Datos | awk -F "\",\"" '{print $1 " " $6 " " $7}' | sed -e '1,$ s/,/|/g' -e '1d' -e '3,4d' | grep '\S' | more
+ 1280  cd ..
+ 1281  cd problema3
+ 1282  cd datos_csv/
+ 1283  cat Datos | awk -F "\",\"" '{print $1 " " $6 " " $7}' | sed -e '1,$ s/,/|/g' -e '1d' -e '3,4d' | grep '\S' | more
+ 1284  cat Datos | awk -F "," '{print $1 " " $6 " " $7}' | sed -e '1,$ s/,/|/g' -e '1d' -e '3,4d' | grep '\S' | more
+ 1285  cd ..
+ 1286  ls -ltrh
+ 1287  cd datos_graf/
+ 1288  ls -ltrh
+ 1289  cat Datos.dat  | more
+ 1290  ls -ltrh
+ 1291  head Datos.dat 
+ 1292  gnuplot 
+ 1293  more Datos.dat 
+ 1294  ls -ltrh
+ 1295  cat Datos.dat | more
+ 1296  sudo su -
+ 1297  c
+ 1298  cd
+ 1299  cd lx2_Danny/
+ 1300  git status
+ 1301  git add problema2*
+ 1302  git add problema3*
+ 1303  git add src
+ 1304  git status
+ 1305  git commit -m "Files update"
+ 1306  git push
+ 1307  git checkout master 
+ 1308  git status
+ 1309  git commit -m "Files Update"
+ 1310  git push
+ 1311  git status
+ 1312  pwd
+ 1313  git commit -m "Files Update"
+ 1314  git add history/
+ 1315  git commit -m "Files Update"
+ 1316  giy push
+ 1317  git push
+ 1318  uphist
