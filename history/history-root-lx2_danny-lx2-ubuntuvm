@@ -413,4 +413,96 @@
   413  ls -ltrh
   414  pwd
   415  reboot
-  416  uphist
+  416  ls -ltrh
+  417  ./sys_monitor.sh 
+  418  bash sys_monitor.sh 
+  419  more sys_monitor.sh 
+  420  bash sys_monitor.sh CPU 10
+  421  cd /tmp
+  422  cd CPU/
+  423  ls- ltrh
+  424  ls -ltrh
+  425  more topcmd_2016-06-04_13\:55\:21.log 
+  426  cd -
+  427  cd
+  428  ls -ltrh
+  429  vi sys_monitor.sh 
+  430  uphist
+  431  cat sys_monitor.sh 
+  432  vi sys_monitor.sh 
+  433  ifconfig
+  434  exit
+  435  apt-get install catdoc
+  436  xls2csv
+  437  vi /etc/network/interfaces
+  438  /etc/init.d/networking restart 
+  439  ifconfig
+  440  vi /etc/network/interfaces
+  441  /etc/init.d/networking restart 
+  442  /etc/init.d/networking stop
+  443  reboot
+  444  vi /etc/network/interfaces
+  445  erboot
+  446  reboot
+  447  vi /etc/network/interfaces
+  448  reboot
+  449  vi /etc/network/interfaces
+  450  reboot
+  451  vi /etc/network/interfaces
+  452  reboot
+  453  vi /etc/network/interfaces
+  454  reboot
+  455  apt-get install libgd2-dev
+  456  apt-get remove gnuplot
+  457  apt-get remove gnuplot-x11
+  458  apt-get flush gnuplot-x11
+  459  apt-get install gnuplot-x11
+  460  ls -ltrh
+  461  shutdown -h now
+  462  cd /lx2_Danny/problema2/datos_csv
+  463  ls -ltrh
+  464  cd /lx2_Danny/problema2/datos_csv
+  465  exit
+  466  cd /lx2_Danny/problema2/datos_csv
+  467  cd /home/admin1/lx2_Danny/problema2/datos_csv
+  468  ls -ltrh
+  469  cat  test.txt | grep -v " "
+  470  cat  test.txt
+  471  cat  test.txt | grep -v '\S'
+  472  cat  test.txt | grep '\S'
+  473  gnuplot
+  474  cd /home/admin1/lx2_Danny/
+  475  ls -ltrh
+  476  cd hojasExcel/
+  477  ls
+  478  cd hojasDatos/
+  479  ls 
+  480  ls -ltrh
+  481  cat full_datos/
+  482  cd full_datos/
+  483  ls
+  484  cat full.dat  | more
+  485  admin
+  486  exit
+  487  cd /home/admin1/lx2_Danny/problema3/
+  488  ls
+  489  ls -ltrh
+  490  cat datos_csv/
+  491  cd datos_csv/
+  492  ls 
+  493  cat Datos 
+  494  more Datos 
+  495  vim Datos
+  496  cat Datos | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7}' |more
+  497  cat Datos | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7}' | sed -e '1,$ s/,//g' -e '1d' -e '2,3d' -e  '1,$ s/"//g'|  grep '\S' | more
+  498  cat Datos | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7}' | sed -e '1,$ s/,//g' -e '1d' -e '3,4d' -e  '1,$ s/"//g'|  grep '\S' | more
+  499  cd ..
+  500  ls -ltrh
+  501  cd datos_graf/
+  502  ls -ltrh
+  503  date
+  504  cat Datos.dat | more
+  505  uphist
+  506  exit
+  507  ls -ltrh
+  508  uphist
