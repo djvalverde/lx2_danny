@@ -33,7 +33,8 @@ done 2> csv2dat.log
 
 FMT_BEGIN='2012-03-16 11:00:00'
 FMT_END='2012-05-30 22:00:00'
-FMT_X_SHOW='%Y-%m-%d %H:%M:%S'
+#FMT_X_SHOW='%Y-%m-%d %H:%M:%S'
+FMT_X_SHOW='%Y-%m-%d'
 DATA_DONE=$GRAF_DATA/Datos.dat
 
 graficar()
@@ -41,15 +42,19 @@ graficar()
 gnuplot << EOF 2> error.log
 
 set grid
-set title "Indice de radiacion solar"
+set title "Maximo Indice de radiacion solar"
 set ylabel "KW/m2"
 set xdata time
 set timefmt "%Y-%m-%d %H:%M:%S"
 set xrange ["$FMT_BEGIN" : "$FMT_END"]
 set format x "$FMT_X_SHOW"
+set terminal png size 1024,864
+set output 'IRS_max.png'
+plot "$DATA_DONE" using 1:3 with lines title "MAX"
+set title "Minimo Indice de radiacion solar"
 set terminal png
-set output 'IRS.png'
-plot "$DATA_DONE" using 1:3 with lines title "MAX", "$DATA_DONE" using 1:4 with linespoints title "Min"
+set output 'IRS_min.png'
+plot "$DATA_DONE" using 1:4 with lines title "MIN"
 EOF
 }
 
