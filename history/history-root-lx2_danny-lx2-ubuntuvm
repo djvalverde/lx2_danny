@@ -503,3 +503,9 @@
   503  date
   504  cat Datos.dat | more
   505  uphist
+<<<<<<< HEAD
+=======
+  506  exit
+  507  ls -ltrh
+  508  uphist
+>>>>>>> proyecto_programado

@@ -490,6 +490,7 @@
   808  git status
   809  git push
   810  uphist
+<<<<<<< HEAD
   811  git status
   812  git commit -m "History Update"
   813  git status
@@ -998,3 +999,5 @@
  1316  giy push
  1317  git push
  1318  uphist
+=======
+>>>>>>> proyecto_programado

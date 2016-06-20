@@ -1,0 +1,10 @@
+Servicios Monto Total Monto Unitario 
+Agua 14498 1449.8 
+Luz 41165 4573.88888888889 
+Teléfono 640 71.1111111111111 
+Celular 100 11.1111111111111 
+Internet 20440 2271.11111111111 
+Alquiler 332500 36944.4444444444 
+Aseo 18000 2000 
+Cable 10000 1111.11111111111T. total en min: 
+Asociación 0 0 
