@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Variables Definition
 DATA=/home/admin1/lx2_Danny/problema3
 OUT_DATA=$DATA/datos_csv
 GRAF_DATA=$DATA/datos_graf
@@ -9,18 +10,8 @@ mkdir $DATA/datos_csv
 mkdir $GRAF_DATA
 mkdir $FULL_DATA
 
- #m=0
-
-# for i in `find $DATA -name '*.xls' `
-# do
-#echo "Procesando archivo $i"
-#xls2csv $i > $OUT_DATA/`echo $i |  cut -d'/' -f6 | sed -e 's/.xls//' -e 's/bills//' -e 's/_//'`.csv
-#let m=m+1
-
-#done 2> error_xls2csv.log
-
 m=0
-
+#Extracting the columns needed and converting the file for chart
 for e in `find $OUT_DATA -name "Datos"`
 do
 echo "Dando formato de datos para graficar el archivo $e"
@@ -31,12 +22,15 @@ let m=m+1
 
 done 2> csv2dat.log
 
+#Variables used on gnuplot chart
+
 FMT_BEGIN='2012-03-16 11:00:00'
 FMT_END='2012-05-30 22:00:00'
 #FMT_X_SHOW='%Y-%m-%d %H:%M:%S'
 FMT_X_SHOW='%Y-%m-%d'
 DATA_DONE=$GRAF_DATA/Datos.dat
 
+#Function in charge of chart creation in gnuplot
 graficar()
 {
 gnuplot << EOF 2> error.log
