@@ -1,648 +1,3 @@
-  319  tree .gti
-  320  tree .git
-  321  ls -ltr
-  322  ls -ltra
-  323  vim ~/.gitconfig
-  324  pwd
-  325  vi ~/.gitconfig
-  326  cd .git/
-  327  ls -ltrh
-  328  cd config
-  329  cat config 
-  330  cd..
-  331  cd ..
-  332  git status
-  333  git status
-  334  cd lx2_Danny/
-  335  guit status
-  336  git status
-  337  git rm .gitnore
-  338  git rm .gitignore
-  339  ls -ltrh
-  340  ls -ltra | grep -i git
-  341  git rm .gitignore
-  342  git rm ../.gitignore
-  343  git add .gitignore
-  344  git commit -u "Files update"
-  345  git status
-  346  git remote
-  347  git commit -m "Files update"
-  348  git push
-  349  git status
-  350  ls
-  351  cd history/
-  352  ls -ltrh
-  353  mv history-user_lx2-ubuntuvm history-admin1-lx2_danny-`hostname`
-  354  ls -ltrh
-  355  git status
-  356  cd ..
-  357  ls -ltrh
-  358  git add history/
-  359  git add --all history/
-  360  git status
-  361  git commit -m "History file update"
-  362  git push
-  363  cd history/
-  364  ls -ltrh
-  365  history > history-admin1-lx2_danny-`hostname`
-  366  ls- ltrh
-  367  ls -ltrh
-  368  more history-admin1-lx2_danny-lx2-ubuntuvm 
-  369  git status
-  370  git commit -m "Files update"
-  371  git push
-  372  git status
-  373  git commit -a -m "Files update"
-  374  git push
-  375  history > history-admin1-lx2_danny-`hostname`pwd
-  376  pwd
-  377  ls- ltrh
-  378  ls -ltrh
-  379  rm history-admin1-lx2_danny-lx2-ubuntuvmpwd
-  380  cd
-  381  ls -ltra
-  382  vi .bashrc
-  383  uphist
-  384  . .bashrc
-  385  uphist
-  386  ./.bashrc
-  387  . .bashrc
-  388  uphist
-  389  vi .bashrc
-  390  . .bashrc
-  391  vi .bashrc
-  392  . .bashrc
-  393  uphist
-  394  git status
-  395  cd lx2_Danny/
-  396  git status
-  397  ls -ltrh
-  398  cd history/
-  399  ls -ltrh
-  400  rm history-`whoami`-lx2_danny-`hostname`
-  401  git status
-  402  ls -ltrh
-  403  rm history-\`whoami\`-lx2_danny-\`hostname\` 
-  404  ls -ltrh
-  405  uphist
-  406  ls -ltrh
-  407  git status
-  408  git commit -m "Files update"
-  409  git commit -m -a "Files update"
-  410  cd ..
-  411  git commit -m -a "Files update"
-  412  git commit  -a -m "Files update"
-  413  git push
-  414  CD
-  415  cd
-  416  cat .bashrc
-  417  ls -ltrh
-  418  cd lx2_Danny/history/
-  419  ls -ltrh
-  420  git status
-  421  cd ..
-  422  git add --all history/
-  423  git status
-  424  git commit -a -m "Files update"
-  425  git push
-  426  clear
-  427  ls -ltrh
-  428  cd
-  429  df -h
-  430  sudo su - 
-  431  sudo su -
-  432  sudo su -
-  433  uphist
-  434  cd lx2_Danny/
-  435  git status
-  436  git commit "Files update"
-  437  git commit -m "Files update"
-  438  git commit -a -m "Files update"
-  439  git push
-  440  sudo su - 
-  441  df -h
-  442  sudo su - 
-  443  uptime
-  444  ifconfgi
-  445  ifconfig
-  446  admin
-  447  sudo su -
-  448  cd /tmp
-  449  ls -ltrh
-  450  cat test.sh 
-  451  sudo su -
-  452  sudo su - 
-  453  ifconfig
-  454  sudo su - 
-  455  sudo su -
-  456  ifconfig
-  457  cd ..
-  458  ls -ltrh
-  459  pwd
-  460  cd admin1/
-  461  ls -ltrh
-  462  cd lx2_Danny/
-  463  ls -ltrh
-  464  mkdir -p hojasExcel/hojasDatos
-  465  mkdir -p hojasExcel/src
-  466  ls- ltrh
-  467  ls -ltrh
-  468  mkdir problema2
-  469  mkdir problema3
-  470  ls -ltrh
-  471  mkdir -p hojasExcel/hojasDatos/datos_csv
-  472  ls -ltrh
-  473  ls -ltrh hojasExcel/
-  474  ls -ltrh hojasExcel/*
-  475  cd hojasExcel/
-  476  cd hojasDatos/
-  477  cp ~/Desktop/problema1/hojasDatos/* .
-  478  ls -ltrh
-  479  cd ..
-  480  cd problema2
-  481  sl -ltrh
-  482  ls -ltrh
-  483  cp ~/Desktop/proyectoFinal/problema2/* .
-  484  ls -ltrh
-  485  cd ..
-  486  cd  problema3
-  487  cp ~/Desktop/proyectoFinal/problema3/* .
-  488  ls -ltrh
-  489  cd ..
-  490  treee
-  491  tree
-  492  git status
-  493  git branch proyecto_programado
-  494  git branch
-  495  git add -h
-  496  git push origin proyecto_programado
-  497  git status
-  498  git checkout proyecto_programado
-  499  git add hojasExcel/
-  500  git add problema*
-  501  git status
-  502  git commit "Initial load"
-  503  git commit -m "Initial load"
-  504  git push
-  505  git checkout master 
-  506  git status
-  507  git add src
-  508  git status
-  509  git commit -m "branch master update"
-  510  git push
-  511  git status
-  512  ls
-  513  ls -ltrh
-  514  cd hojasExcel/
-  515  ls -ltrh
-  516  cd hojasDatos/
-  517  ls -ltrh
-  518  cd ..
-  519  ls -ltrh
-  520  cd lx2_Danny/
-  521  ls -ltrh
-  522  git status
-  523  git checkout proyecto_programado 
-  524  sl -ltrh
-  525  ls -ltrh
-  526  cd hojasExcel/
-  527  ls -ltrh
-  528  cd hojasDatos/
-  529  ls -ltrh
-  530  xls2csv datos1.xls >> ./datos_csv/datos1.csv
-  531  ls -ltrh
-  532  cd datos_csv/
-  533  ls -ltrh
-  534  less datos1.csv 
-  535  ifconfig
-  536  networking service stop
-  537  service networking stop
-  538  service network stop
-  539  sudo service networking stop
-  540  sudo service networking start
-  541  ifconfig
-  542  sudo su -
-  543  ifconfig
-  544  sudo su -
-  545  ifconfig
-  546  sudo su -
-  547  ifconfig
-  548  sudo su -
-  549  sudo su - 
-  550  ifconfig
-  551  ps -ef | grep ssh
-  552  sudo su -
-  553  ls
-  554  cd lx2_Danny/
-  555  ls -ltrh
-  556  ls -ltrh /home/admin1/lx2_Danny/hojasExcel/hojasDatos
-  557  ls -ltrh
-  558  cd problema1
-  559  ls -ltrh
-  560  vi problema1.sh 
-  561  ./problema1.sh 
-  562  ls -lrth
-  563  cat error1.log 
-  564  cat problema1.sh 
-  565  vi problema1.sh 
-  566  ./problema1.sh 
-  567  ls -ltrh
-  568  cat error2.log 
-  569  vi problema1.sh 
-  570  ./problema1.sh 
-  571  ls -ltrh
-  572  date
-  573  cat error1.log 
-  574  cd ..
-  575  ls -ltrh
-  576  cd problema1
-  577  ls- ltrh
-  578  ls -ltrh
-  579  vi problema1.sh 
-  580  ./problema1.sh 
-  581  cd ..
-  582  tree
-  583  ls -ltrh
-  584  cd lx2_Danny/
-  585  git checkout proyecto_programado 
-  586  ls -ltrh
-  587  mkdir problema1
-  588  git status
-  589  ls -ltrh
-  590  tree
-  591  cd hojasExcel/hojasDatos/
-  592  ls -ltrh
-  593  pwd
-  594  cd ..
-  595  cd problema1
-  596  vi problema1.sh
-  597  ls -ltrh
-  598  chmod 750 problema1.sh 
-  599  ./problema1.sh 
-  600  tree
-  601  ls -ltrh
-  602  cat error1.log 
-  603  cd home/admin1/lx2_Danny/hojasExcel/hojasDatos/archivos_csv/
-  604  ls -ltrh
-  605  cd /home/admin1/lx2_Danny/hojasExcel/hojasDatos/archivos_csv/
-  606  cd ..
-  607  ls -ltrh
-  608  cd hojasExcel/
-  609  ls
-  610  cd hojasDatos/
-  611  ls
-  612  cd datos_csv/
-  613  ls -ltrh
-  614  cat data-1.csv
-  615  head -10 data-1.csv
-  616  ls -ltrh
-  617  cdls -ltrh
-  618  cd ..
-  619  ls -ltrh
-  620  mkdir datos_graf
-  621  ls -ltr
-  622  cd datos_graf/
-  623  ls -ltrh
-  624  cd ..
-  625  ls -ltrh
-  626  cd datos_csv/
-  627  ls -ltrh
-  628  rm *.csv
-  629  ls -ltrh
-  630  cd ..
-  631  cd datos_graf/
-  632  ls -ltrh
-  633  file data-1.csv
-  634  man file
-  635  ls -ltrh
-  636  file -l graf-0.dat 
-  637  cd ..
-  638  cd datos_csv/
-  639  ls -ltrh
-  640  rm *.csv
-  641  cd ..
-  642  cd datos_graf/
-  643  ls -ltrh
-  644  cd ..
-  645  cd datos_csv/
-  646  ls -ltrh
-  647  cd ..
-  648  ls -ltrh
-  649  cd datos_csv/
-  650  ls -ltrh
-  651  cat data-0.csv 
-  652  ls -ltrh =/home/admin1/lx2_Danny/hojasExcel/hojasDatos
-  653  ls -ltrh /home/admin1/lx2_Danny/hojasExcel/hojasDatos
-  654  ls -ltrh
-  655  cat hojasDatos/archivos_csv/data-0.csv | awk  F "\",\""
-  656  cat data-0.csv | awk  F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5}' | head
-  657  cat data-0.csv | awk  -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5}' | head
-  658  ls -ltrh
-  659  ls- ltrh
-  660  ls -ltrh
-  661  sl -ltrh
-  662  cd ..
-  663  ls -ltrh
-  664  cd datos_graf/
-  665  ls -ltrh
-  666  cat graf-0.dat
-  667  gnuplot
-  668  sudo apt-get install gnuplot*
-  669  sudo apt-get install gnuplot-x11
-  670  gnuplot
-  671  sudo su - 
-  672  cd lx2_Danny/
-  673  ls -ltrh
-  674  cd problema1
-  675  ls -ltrh
-  676  cd ../hojasExcel/
-  677  ls -ltrh
-  678  cd hojasDatos/
-  679  ls -ltrh
-  680  cd datos_graf/
-  681  ls -ltrh
-  682  gnuplot
-  683  ls -ltrh
-  684  head -15 graf-0.dat 
-  685  gnuplot
-  686  ls -ltrh
-  687  cat graf-1.dat |head
-  688  gnuplot
-  689  gnuplot 
-  690  cat graf-0.dat 
-  691  vi graf-0.dat 
-  692  gnuplot 
-  693  vi graf-0.dat 
-  694  gnuplot 
-  695  vi graf-0.dat 
-  696  gnuplot 
-  697  gnuplot> set xdata time
-  698  ls- ltrh
-  699  ls -ltrh
-  700  vi graf-0.dat 
-  701  gnuplot
-  702  ls -ltrh
-  703  cat graf-0.dat 
-  704  gnuplot
-  705  cat graf-0.dat 
-  706  gnuplot 
-  707  cat graf-0.dat 
-  708  gnuplot 
-  709  ls -ltrh
-  710  rm fig1*
-  711  rm set
-  712  ls -ltrh
-  713  gnuplot 
-  714  cat graf-1.dat 
-  715  gnuplot 
-  716  cd lx2_Danny/
-  717  ls -cd ..
-  718  cd ..
-  719  cd repo-dev/
-  720  git status
-  721  git pull
-  722  cd ../lx2_Danny/
-  723  git status
-  724  history | grep git
-  725  git checkout
-  726  git status
-  727  git commit -m "branch update"
-  728  git add -a  hojasExcel/
-  729  git add -A hojasExcel/
-  730  git status
-  731  ls -ltrh
-  732  git add -A problema1
-  733  git status
-  734  git commit -m "branch update"
-  735  git push 
-  736  ls -ltrh
-  737  cd problema2
-  738  ls -ltrh
-  739  cd ..
-  740  cd hojasExcel/
-  741  ls -ltrh
-  742  cd hojasDatos/
-  743  ls -ltrh
-  744  cd datos_graf/
-  745  ls -ltrh
-  746  cd ..
-  747  ls-kltrh
-  748  ls -ltrh
-  749  cd src/
-  750  ls
-  751  cd ..
-  752  ls -ltrh
-  753  cd src/
-  754  ls -ltrh
-  755  cd ..
-  756  cd problema1
-  757  ls -ltrh
-  758  sudo su -
-  759  admin
-  760  sudo su - 
-  761  cd lx
-  762  ls -lrth
-  763  cd lx2_Danny/
-  764  ls -ltrh
-  765  cd problema
-  766  ls -ltrh
-  767  cd problema1
-  768  ls -ltrh
-  769  ls -ltr
-  770  cd lx2_Danny/
-  771  ls -ltrh
-  772  cd problema
-  773  cd problema1
-  774  ls -ltrh
-  775  cat problema1.sh 
-  776  cd /home/admin1/lx2_Danny/hojasExcel/hojasDatos
-  777  ls -ltrh
-  778  mkdir full_datos
-  779  ls -ltr
-  780  cd ..
-  781  ls -ltrh
-  782  cd ..
-  783  ls -ltrh
-  784  cd problema1
-  785  ls -ltrh
-  786  mv problema1.sh _bkpproblema1.sh
-  787  ls -ltr
-  788  mv _bkpproblema1.sh problema1.sh
-  789  cp problema1.sh bkp_problema1.sh
-  790  ls -ltrh
-  791  vi problema1.sh 
-  792  ./problema1.sh 
-  793  vi problema1.sh 
-  794  ./problema1.sh 
-  795  vi problema1.sh 
-  796  ./problema1.sh 
-  797  vi problema1.sh 
-  798  cat problema1.sh 
-  799  vi problema1.sh 
-  800  git status
-  801  git add error
-  802  cd ..
-  803  git status
-  804  git add problema1/
-  805  git add hojasExcel/
-  806  git status
-  807  git commit -m "Problem1 Finished"
-  808  git status
-  809  git push
-  810  uphist
-<<<<<<< HEAD
-  811  git status
-  812  git commit -m "History Update"
-  813  git status
-  814  git push
-  815  git status
-  816  git add history/
-  817  git status
-  818  git commit -m "History Update"
-  819  git status
-  820  git push
-  821  admin
-  822  sudo su 
-  823  cd /home/admin1/lx2_Danny/hojasExcel/hojasDatos/datos_graf/
-  824  ls -ltrh
-  825  ls -ltr
-  826  cd lx2_Danny/
-  827  ls -ltrh
-  828  cd problema
-  829  cd problema2
-  830  ls -ltr
-  831  cd ..
-  832  cd src
-  833  ls -ltrh
-  834  vi problema2.sh
-  835  chmod 755 problema2.sh 
-  836  ./problema2.sh 
-  837  vi problema2.sh
-  838  ./problema2.sh 
-  839  ls -ltrh 
-  840  cd ..
-  841  cd problema2
-  842  ls -ltrh
-  843  ls ls -ltrh | sed 's/bills//'
-  844  ls -ltrh | sed 's/bills//'
-  845  ls -ltrh
-  846  cd ../src/
-  847  ls -ltrh
-  848  vi problema2.sh 
-  849  ./problema2.sh 
-  850  vi problema2.sh 
-  851  ./problema2.sh 
-  852  vi problema2.sh 
-  853  ./problema2.sh 
-  854  ls -ltrh
-  855  cat error_xls2csv.log
-  856  vi problema2.sh 
-  857  ./problema2.sh 
-  858  vi problema2.sh 
-  859  ./problema2.sh 
-  860  vi problema2.sh 
-  861  ./problema2.sh 
-  862  cat problema2.sh 
-  863  vi problema2.sh 
-  864  ./problema2.sh 
-  865  vi problema2.sh 
-  866  ./problema2.sh 
-  867  vi problema2.sh 
-  868  ./problema2.sh 
-  869  cat problema2.sh 
-  870  ls -ltrh
-  871  cat error_xls2csv.log
-  872  cd ..
-  873  cd problema1
-  874  ls -ltrh
-  875  cd ..
-  876  cd hojasExcel/
-  877  ls -ltrh
-  878  cd hojasDatos/
-  879  ls -ltrh
-  880  cat full_datos/
-  881  ls -ltrh
-  882  cd full_datos/
-  883  ls -ltrh
-  884  cat full.dat 
-  885  cd lx2_Danny/
-  886  cd problema2
-  887  ls -ltrh
-  888  pwd
-  889  ls-ltrh
-  890  ls -ltrh
-  891  cd archivos_csv/
-  892  ls -ltrh
-  893  cd ..
-  894  ls -ltrh
-  895  cd datos_
-  896  cd datos_csv/
-  897  ls -ltrh
-  898  more data-1.csv
-  899  cd ..
-  900  ls -ltrh
-  901  rm -Rf archivos_csv
-  902  ls -ltrh
-  903  du -sh *
-  904  cd datos_csv/
-  905  ls -ltrh
-  906  head -50 data-0.csv
-  907  ls -ltrh
-  908  sed data-1.csv 's/data/DATA'
-  909  sed -e data-1.csv 's/data/DATA'
-  910  sed -n data-1.csv 's/data/DATA'
-  911  sed "data-1.csv" 's/data/DATA'
-  912  sed -s "data-1.csv" 's/data/DATA'
-  913  sed -e "data-1.csv" 's/data/DATA'
-  914  sed `echo data-1.csv` 's/data/DATA'
-  915  ls -ltrh
-  916  rm *.csv
-  917  ls -ltrh
-  918  rm *.csv
-  919  rm -f *.csv
-  920  rm *
-  921  rm data-1*
-  922  rm *.csv
-  923  ls -ltrh
-  924  rm bills*
-  925  ls
-  926  ls -ltrh
-  927  rm data*
-  928  ls -ltrh
-  929  rm -data.csv problema2.csv
-  930  rm "problema2.csv"
-  931  rm "-data.csv"
-  932  ls -ltrh
-  933  rm '-data.csv'
-  934  rm *data
-  935  ls -ltrh
-  936  cat 01_2012.csv |  awk -F "\",\""
-  937  cat 01_2012.csv |  awk -F "\",\"" > test.txt
-  938  cat test.txt 
-  939  cat 01_2012.csv |  | awk -F "\",\"" '{print $1 " " $2 " " $3 " "$4 " " $5}' > test.txt
-  940  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "$4 " " $5}' > test.txt
-  941  cat test.txt 
-  942  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' > test.txt
-  943  cat test.txt 
-  944  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed '1,$ s/"//g'> test.txt
-  945  cat test.txt 
-  946  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/"//g' -e 's/'//'> test.txt
-  947  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/"//g' -e 's/,//'> test.txt
-  948  cat test.txt 
-  949  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/"//g' -e 's/\,//'> test.txt
-  950  cat test.txt 
-  951  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e '1,$ s/"//g' -e 's/\,//'> test.txt
-  952  cat test.txt 
-  953  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed 's/\,//'> test.txt
-  954  cat test.txt 
-  955  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed 's/,/ /'> test.txt
-  956  cat test.txt 
-  957  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed 's/\,\,//'> test.txt
-  958  cat test.txt 
-  959  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed 's/\,/"/'> test.txt
-  960  cat test.txt 
-  961  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -i 's/\,/"/'> test.txt
-  962  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e 's/\,/"/'> test.txt
   963  cat test.txt 
   964  cat 01_2012.csv | awk -F "\",\"" '{print $1 " " $2 " " $3 " "}' | sed -e 's/,/|/'> test.txt
   965  cat test.txt 
@@ -942,62 +297,704 @@
  1259  dat
  1260  date
  1261  sudo su - root
- 1262  cd ~/lx2_Danny/problema3/
- 1263  ls
- 1264  ls -ltrh
- 1265  cd datos_csv/
- 1266  ls -ltrh
- 1267  cat Datos | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " " $6 " " $7}' | sed -e '1,$ s/,/|/g' -e '1d' -e '3,4d' | grep '\S' | more
- 1268  cat Datos | awk -F "\",\"" '{print $1 $3}' | more
- 1269  cat Datos | awk -F "\",\"" '{print $1 " " $6 " " $7}' | sed -e '1,$ s/,/|/g' -e '1d' -e '3,4d' | grep '\S' | more
- 1270  cd ..
- 1271  c d..
- 1272  cd ..
- 1273  cd problema2
- 1274  ls-ltrh
+ 1262  ls -ltrh
+ 1263  cd lx2_Danny/
+ 1264  ls
+ 1265  ls -ltrh
+ 1266  cd src/
+ 1267  cd ..
+ 1268  ls -ltrh
+ 1269  cd problema1
+ 1270  ls -ltrh
+ 1271  ./problema1.sh 
+ 1272  ls -oltrh
+ 1273  cat error.log 
+ 1274  ./problema1.sh 
  1275  ls -ltrh
- 1276  cd datos_csv/
- 1277  ls -ltrh
- 1278  cat 012012.csv
- 1279  cat Datos | awk -F "\",\"" '{print $1 " " $6 " " $7}' | sed -e '1,$ s/,/|/g' -e '1d' -e '3,4d' | grep '\S' | more
- 1280  cd ..
- 1281  cd problema3
- 1282  cd datos_csv/
- 1283  cat Datos | awk -F "\",\"" '{print $1 " " $6 " " $7}' | sed -e '1,$ s/,/|/g' -e '1d' -e '3,4d' | grep '\S' | more
- 1284  cat Datos | awk -F "," '{print $1 " " $6 " " $7}' | sed -e '1,$ s/,/|/g' -e '1d' -e '3,4d' | grep '\S' | more
- 1285  cd ..
- 1286  ls -ltrh
- 1287  cd datos_graf/
- 1288  ls -ltrh
- 1289  cat Datos.dat  | more
+ 1276  date
+ 1277  ./problema1.sh 
+ 1278  cd /lx2_Danny/problema2/datos_csv
+ 1279  cd ..
+ 1280  ls -ltrh
+ 1281  cd problema2
+ 1282  ls
+ 1283  ls -ltr
+ 1284  cd datos_csv/
+ 1285  ls -ltrh
+ 1286  rm *data
+ 1287  rm *data*
+ 1288  rm --force '-data.csv' 
+ 1289  rm  ./-data.csv
  1290  ls -ltrh
- 1291  head Datos.dat 
- 1292  gnuplot 
- 1293  more Datos.dat 
- 1294  ls -ltrh
- 1295  cat Datos.dat | more
- 1296  sudo su -
- 1297  c
- 1298  cd
- 1299  cd lx2_Danny/
- 1300  git status
- 1301  git add problema2*
- 1302  git add problema3*
- 1303  git add src
- 1304  git status
- 1305  git commit -m "Files update"
- 1306  git push
- 1307  git checkout master 
- 1308  git status
- 1309  git commit -m "Files Update"
- 1310  git push
- 1311  git status
- 1312  pwd
- 1313  git commit -m "Files Update"
- 1314  git add history/
- 1315  git commit -m "Files Update"
- 1316  giy push
- 1317  git push
- 1318  uphist
-=======
->>>>>>> proyecto_programado
+ 1291  more 01_2012.csv
+ 1292  cd ..
+ 1293  ls -ltrh
+ 1294  cd full_datos/
+ 1295  ls -ltrh
+ 1296  cat all2
+ 1297  cat all2.dat 
+ 1298  cat all2.dat  | sort -u
+ 1299  cat all2.dat  | sort -u > all.dat 
+ 1300  cat all.dat 
+ 1301  gnuplot 
+ 1302  vi all.dat 
+ 1303  gnuplot 
+ 1304  sudo su - oracle
+ 1305  sudo su -
+ 1306  sl -ltrh
+ 1307  ls -ltrh
+ 1308  cd /home/admin1/lx2_Danny/problema3/datos_graf
+ 1309  gnoplot
+ 1310  gnuplot
+ 1311  exit
+ 1312  cd lx2_Danny/
+ 1313  ls -ltrh
+ 1314  cd problema2
+ 1315  ls -ltrh
+ 1316  cd datos_csv/
+ 1317  ls -ltrh
+ 1318  cat 012012.csv 
+ 1319  cd ..
+ 1320  c d..
+ 1321  cd ..
+ 1322  cd src/
+ 1323  ls -ltrh
+ 1324  cat problema2.sh
+ 1325  cat problema2.sh 
+ 1326  ls -ltrh
+ 1327  cat  problema2.sh
+ 1328  cat problema2.sh 
+ 1329  cd /home/admin1/lx2_Danny/problema3/datos_graf
+ 1330  ls -ltrh
+ 1331  cat Datos.dat 
+ 1332  sudo su -
+ 1333  cd lx
+ 1334  cd lx2_Danny/
+ 1335  ls -ltrh
+ 1336  cd problema2
+ 1337  ls
+ 1338  cd full_datos/
+ 1339  ls ltrh
+ 1340  ls -ltrh
+ 1341  cat all
+ 1342  cat all.dat 
+ 1343  ls -ltrh
+ 1344  cat agua_all.dat 
+ 1345  cat luz_all.dat 
+ 1346  ps -ef| grep plot
+ 1347  kill -9 4484
+ 1348  ps -ef| grep plot
+ 1349  kill -9 4501
+ 1350  kill -9 6439
+ 1351  kill -9 6455
+ 1352  ps -ef| grep plot
+ 1353  kill -9 4530 4572 5430 5494 6001 6032 6393 6419 6452 6470
+ 1354  ps -ef| grep plot
+ 1355  ls -ltrh
+ 1356  free | awf -F " " {print $2 " " $3 " "}
+ 1357  free | awk -F " " {print $2 " " $3 " "}
+ 1358  free | awk -F " " '{print $2 " " $3 " "}'
+ 1359  free -m -s 2 | awk -F " " '{print $2 " " $3 " "}'
+ 1360  free -m -s 2 | awk -F "" '{print $2 " " $3 " "}'
+ 1361  free -m -s 2
+ 1362  free -m -s 2 | awk -F "" '{print $2, $3}'
+ 1363  free -m -s 2 | awk -F " " '{print $2, $3}'
+ 1364  free -m -s 2 | sed 's/ /|/'
+ 1365  free -m -s 2 | sed '2, s/ /|/'
+ 1366  free -m -s 2 | sed -e '2, s/ /|/'
+ 1367  free -m -s 2 | sed -e '2 s/ /|/'
+ 1368  free -m -s 2 | sed -e '1d' -e 's/ /|/'
+ 1369  free -m -s 2 | sed -e '1d' -e 's/ /|/' > test.txt
+ 1370  cat test.txt 
+ 1371  free -m -s 2 > test.txt
+ 1372  cat test.txt 
+ 1373  free -m -s 2 > test.txt; cat test.txt | grep -i mem
+ 1374  cat test.txt 
+ 1375  ls -ltrh
+ 1376  date 
+ 1377  free -m -s 2 > test.txt; cat test.txt | grep -i mem > test2.txt
+ 1378  cat test2.txt
+ 1379  ls -ltr
+ 1380  free -m -s 2 > test.txt 2>&1
+ 1381  cat test.txt 
+ 1382  free -m -s 2 | grep -i mem> test.txt 2>&1
+ 1383  cat test.txt 
+ 1384  exec free -m -s 2 | grep -i mem> test.txt 2>&1
+ 1385  cat test.txt 
+ 1386  exec free -m -s 2  > test.txt 2>&1 | tail -f test.txt | grep -i mem
+ 1387  exec free -m -s 2  > test.txt 2>&1 | tail -f test.txt | grep -i mem > test.dat
+ 1388  cat test.dat 
+ 1389  ls-ltrh
+ 1390  ls -ltrh
+ 1391  rm test.txt test.dat
+ 1392  exec free -m -s 2  > test.txt 2>&1 | tail -f test.txt | grep -i mem > test.dat
+ 1393  ls -ltrh
+ 1394  exec free -m -s 2  > test.txt 2>&1 ; tail -f test.txt | grep -i mem > test.dat
+ 1395  sl -ltrh
+ 1396  ls -ltrh
+ 1397  cat test.txt 
+ 1398  exec free -m -s 2  > test.txt 2>&1 
+ 1399  ls-ltrh
+ 1400  ls -ltrh
+ 1401  ps -ef | grep free
+ 1402  kill -9  4485 4502 4531 4573 5432 5496 6003 6034 6395 6421 6441
+ 1403  top
+ 1404  top | head -4
+ 1405  man top
+ 1406  top -b -d 5 > test.txt
+ 1407  cat test.txt 
+ 1408  top -b -d 5 > test.txt
+ 1409  ls -ltrh
+ 1410  tail -f test.txt | grep -i mem > test.dat
+ 1411  tail -f test.txt
+ 1412  tail -f test.txt | grep -ia mem > test.dat
+ 1413  ls -ltrh
+ 1414  top -b -d 5 | grep -i KiB > test.txt
+ 1415  cat test.
+ 1416  cat test.txt
+ 1417  top -b -d 5 | head -5 > test.txt
+ 1418  cat test.txt 
+ 1419  top -b -d 5 | head -5 | sed '/ /|/'> test.txt
+ 1420  top -b -d 5 | head -5 | sed 's/ /|/'> test.txt
+ 1421  cat test.
+ 1422  cat test.txt
+ 1423  top -b -d 5 | head -5 | sed 's/ /|/g'> test.txt
+ 1424  cat test.txt
+ 1425  top -b -d 5 | head -5 | sed -e 's/ /|/g' -e 's/||/|' > test.txt
+ 1426  top -b -d 5 | head -5 | sed -e 's/ /|/g' -e 's/||/|/g' > test.txt
+ 1427  cat test.txt 
+ 1428  top -b -d 5 | head -5 | sed -e 's/ /|/g' -e 's/|^/|/g' > test.txt
+ 1429  cat test.txt 
+ 1430  top -b -d 5 | head -5 | sed -e 's/ /|/g' -e 's/||/|/g'  -e 's/||/|/g' > test.txt
+ 1431  cat test.txt 
+ 1432  free -m -s 2 | head -3 | sed -e 's/ /|/g' -e 's/||/|/g'  -e 's/||/|/g' > test.txt
+ 1433  cat test.txt 
+ 1434  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e 's/||/|/g'  -e 's/||/|/g' > test.txt
+ 1435  cat test.txt 
+ 1436  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e 's/||/|/g'  > test.txt 
+ 1437  cat test.txt 
+ 1438  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e 's/|/|/g'  > test.txt 
+ 1439  cat test.txt 
+ 1440  rm test.dat 
+ 1441  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e 's/^||/|/g'  > test.txt 
+ 1442  cat test.txt 
+ 1443  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e 's/||$/|/g'  > test.txt 
+ 1444  cat test.txt 
+ 1445  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e 's/||^/|/g'  > test.txt 
+ 1446  cat test.txt 
+ 1447  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e 's/\|\|^/|/g'  > test.txt 
+ 1448  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e 's/\|\|^/\|/g'  > test.txt 
+ 1449  cat test.txt 
+ 1450  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e 's/\|\|/\|/g'  > test.txt 
+ 1451  cat test.txt 
+ 1452  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e 's/||\|/g'  > test.txt 
+ 1453  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e 's/||/|/g'  > test.txt 
+ 1454  cat test.txt 
+ 1455  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e 's/(||)/|/g'  > test.txt 
+ 1456  cat test.txt 
+ 1457  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e 's/(|)/|/g'  > test.txt 
+ 1458  cat test.txt 
+ 1459  free -m -s 2 | head -2 | sed -e 's/ /\|/g'  > test.txt 
+ 1460  cat test.txt 
+ 1461  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d'  > test.txt 
+ 1462  cat test.txt 
+ 1463  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/|||/\|/g'  > test.txt 
+ 1464  cat test.txt 
+ 1465  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/|||/\|/g' -e 's/|||/\|/g' > test.txt 
+ 1466  cat test.txt 
+ 1467  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/||||/\|/g' -e 's/|||/\|/g' > test.txt 
+ 1468  cat test.txt 
+ 1469  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/|||||/\|/g' -e 's/|||/\|/g' > test.txt 
+ 1470  cat test.txt 
+ 1471  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/|||||/\|/g' -e 's/||/\|/g' > test.txt 
+ 1472  cat test.txt 
+ 1473  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/||||||/\|/g' -e 's/||/\|/g' > test.txt 
+ 1474  cat test.txt 
+ 1475  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/||||||/\|/g' -e 's/|||/\|/g' > test.txt 
+ 1476  cat test.txt 
+ 1477  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/|||||||/\|/g' -e 's/|||/\|/g' > test.txt 
+ 1478  cat test.txt 
+ 1479  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/||||||||/\|/g' -e 's/|||/\|/g' > test.txt 
+ 1480  cat test.txt 
+ 1481  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/|||||||||/\|/g' -e 's/|||/\|/g' > test.txt 
+ 1482  cat test.txt 
+ 1483  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/||||||||/\|/g' -e 's/||/\|/g' > test.txt 
+ 1484  cat test.txt 
+ 1485  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[||||||||]/\|/g' -e 's/||/\|/g' > test.txt 
+ 1486  cat test.txt 
+ 1487  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[||]/\|/g' -e 's/||/\|/g' > test.txt 
+ 1488  cat test.txt 
+ 1489  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[||]/\|/g' -e 's/[||]/\|/g' > test.txt 
+ 1490  cat test.txt 
+ 1491  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[||]/|/g' -e 's/[||]/\|/g' > test.txt 
+ 1492  cat test.txt 
+ 1493  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[||]/|/g' -e 's/[||]/|/g' > test.txt 
+ 1494  cat test.txt 
+ 1495  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[|||||||]/|/g' -e 's/[||]/|/g' > test.txt 
+ 1496  cat test.txt 
+ 1497  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[|||||||]/\|/g' -e 's/[||]/\|/g' > test.txt 
+ 1498  cat test.txt 
+ 1499  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[|||||||||||||]/\|/g' -e 's/[||]/\|/g' > test.txt 
+ 1500  cat test.txt 
+ 1501  free -m | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[|||||||||||||]/\|/g' -e 's/[||]/\|/g' > test.txt 
+ 1502  cat test.txt 
+ 1503  ls -ltrh
+ 1504  date
+ 1505  free -m | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[|||||||||||||]/\|/g' -e 's/[||]/\|/g' > test.txt 
+ 1506  date
+ 1507  ls -ltrh
+ 1508  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[|||||||||||||]/\|/g' -e 's/[||]/\|/g' > test.txt 
+ 1509  cat test.txt 
+ 1510  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[|]//g' > test.txt 
+ 1511  cat test.txt 
+ 1512  free -m -s 2 | head -2 | sed -e 's/ /\|/g' -e '1d' -e 's/[|]/|/g' > test.txt 
+ 1513  cat test.txt 
+ 1514  free -m -s 2 | head -2 | sed -e 's/ /\,/g' -e '1d' -e 's/[,]/|/g' > test.txt 
+ 1515  cat test.txt 
+ 1516  free -m -s 2 | head -2 | sed -e 's/ /\,/g' -e '1d' > test.txt 
+ 1517  cat test.txt 
+ 1518  free -m -s 2 | head -2 | sed -e 's/ /\,/g' -e '1d' -e 's/[,]/ /g' > test.txt 
+ 1519  cat test.txt 
+ 1520  free -m -s 2 | head -2 | sed -e 's/ /\,/g' -e '1d' -e 's/[,]/ /g' | grep -u > test.txt 
+ 1521  cat test.txt 
+ 1522  man grep
+ 1523  free -m -s 2 | head -2 | sed -e 's/ /\,/g' -e '1d' -e 's/[,]/ /g' | grep -u > test.txt 
+ 1524  free -m -s 2 | head -2 | sed -e 's/ /\,/g' -e '1d' -e 's/[,]/ /g' > test.txt 
+ 1525  cat test.txt 
+ 1526  free -m -s 2 | head -2 | sed -e 's/ /\,/g' -e '1d' -e 's/[,]/ /g' > test.txt 
+ 1527  cat test.txt 
+ 1528  ls -ltrh
+ 1529  free -m -s 2 | head -2 | sed -e 's/ /\,/g' -e '1d' -e 's/[,]/ /g'
+ 1530  free -m -s 2 | head -2 | sed -e 's/ /\,/g' -e '1d' -e 's/[,]/ /g' > test.txt 
+ 1531  cat test.txt 
+ 1532  free -m -s 2 | head -2 | sed -e 's/ /\,/g' -e '1d' -e 's/[,]/ /g' > test.log
+ 1533  cat test.log 
+ 1534  free -m -s 2 | head -2 | sed -e 's/ /,/g' -e '1d' -e 's/[,]/ /g' > test.log
+ 1535  cat test.log 
+ 1536  free -m -s 2 | head -2 | sed -e 's/[ ]/|/g' -e '1d' -e 's/[|]/ /g' > test.log
+ 1537  cat test.log 
+ 1538  free -m -s 2 | head -2 | sed -e 's/[ ]/|/g' -e '1d'
+ 1539  free -m -s 2 | head -2 | sed -e 's/[ ]/|/g' -e '1d' -e 's/[||||||||||]/ /g' > test.log
+ 1540  cat test.log 
+ 1541  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/[||||||||||]/ /g' > test.log
+ 1542  cat test.log 
+ 1543  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/[|||||]/ /g' > test.log 
+ 1544  cat test.log 
+ 1545  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem/|/g' > test.log 
+ 1546  cat test.log 
+ 1547  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' > test.log 
+ 1548  cat test.log 
+ 1549  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/|||||||/|/g'> test.log 
+ 1550  cat test.log 
+ 1551  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/||||||||/|/g'> test.log 
+ 1552  cat test.log 
+ 1553  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/||||||/|/g'> test.log 
+ 1554  cat test.log 
+ 1555  cat test.log | sort -u
+ 1556  cat test.log | grep -v 
+ 1557  cat test.log | grep -v "|'
+ 1558  cat test.log | grep -v "|
+ 1559  cat test.log | grep -v "|"
+ 1560  cat test.log | grep -v '|'
+ 1561  cat test.log | egrep  '|'
+ 1562  free -m -s 2 | head -2 | sed -e 's/   /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/||||||/|/g'> test.log 
+ 1563  cat test.log 
+ 1564  free -m -s 2 | head -2 | sed -e 's/  /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/||||||/|/g' -e 's/||/|/g' > test.log 
+ 1565  cat test.log 
+ 1566  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/||||||/|/g' -e 's/||/|/g' > test.log 
+ 1567  cat test.log 
+ 1568  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/||||||/|/g' -e 's/|||/|/g' > test.log 
+ 1569  cat test.log 
+ 1570  free -m -s 2 | head -2 | grep -v " "
+ 1571  free -m -s 2 | head -2 | grep -v Mem:
+ 1572  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/||||||/|/g' -e 's/|||/|/g' > test.log 
+ 1573  cat test.log 
+ 1574  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/[^|||]/|/g'
+ 1575  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/||||||/|/g' -e 's/|||/|/g' > test.log 
+ 1576  cat test.log 
+ 1577  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/|||||/|/g' -e 's/|||/|/g' > test.log 
+ 1578  cat test.log 
+ 1579  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/|||||/|/g' -e 's/|||/|/g' -e 's/||/|/g' > test.log 
+ 1580  cat test.log 
+ 1581  free -m -s 2 | head -2 | sed -e 's/ /|/g' -e '1d' -e 's/Mem:/|/g' -e 's/|||||/|/g' -e 's/|||/|/g' -e 's/||/|/g' -e 's/|/ /g' > test.log 
+ 1582  cat test.log 
+ 1583  tail -f test.dat 
+ 1584  pwd
+ 1585  ls
+ 1586  ls -ltrh
+ 1587  cat test.txt 
+ 1588  cd lx2_Danny/
+ 1589  ls -ltrh
+ 1590  cd src/
+ 1591  ls -ltrh
+ 1592  rm test.txt
+ 1593  vi plot.sh
+ 1594  cat plot.dat 
+ 1595  ls -ltrh
+ 1596  vi plot.sh 
+ 1597  cd lx2_Danny/src/
+ 1598  ls -ltrh
+ 1599  cat bkp_plot.sh 
+ 1600  cd lx
+ 1601  cd ..
+ 1602  ls -ltrh
+ 1603  cd src/
+ 1604  ls -ltrh
+ 1605  cd lx2_Danny/
+ 1606  cd src/
+ 1607  ls -ltrh
+ 1608  ./problema2.sh 
+ 1609  gnuplot
+ 1610  ls -ltrh
+ 1611  chmod 755 plot.sh 
+ 1612  ./plot.sh 
+ 1613  ls -ltrh
+ 1614  cat plot.dat 
+ 1615  ./plot.sh 
+ 1616  ls -ltrh
+ 1617  cat plot.sh 
+ 1618  ./plot.sh 
+ 1619  vi plot.sh 
+ 1620  ./plot.sh 
+ 1621  ls -ltrh
+ 1622  cat liveplot.gnu 
+ 1623  chmod 777 liveplot.gnu 
+ 1624  ./plot.sh 
+ 1625  cat liveplot.gnu 
+ 1626  date
+ 1627  ls -ltrh
+ 1628  vi plot.sh 
+ 1629  ./plot.sh 
+ 1630  ls -ltrh
+ 1631  vi plot.sh 
+ 1632  ./plot.sh 
+ 1633  cat plot.dat 
+ 1634  ls -ltrh
+ 1635  vi plot.sh 
+ 1636  ./plot.sh 
+ 1637  vi plot.sh 
+ 1638  ./plot.sh 
+ 1639  ls -ltrh
+ 1640  cat plot1.dat 
+ 1641  vi plot.sh 
+ 1642  ./plot.sh 
+ 1643  vi plot.sh 
+ 1644  ./plot.sh 
+ 1645  ls -ltrh
+ 1646  cat plot
+ 1647  cat plot1.dat 
+ 1648  ./plot.sh 
+ 1649  ls -ltrh
+ 1650  rm plot1.dat 
+ 1651  cat plot.sh 
+ 1652  ./plot.sh 
+ 1653  ll
+ 1654  ls -ltrh
+ 1655  cat 1plot.dat 
+ 1656  vi plot.sh 
+ 1657  ./plot.sh 
+ 1658  vi plot.sh 
+ 1659  ./plot.sh 
+ 1660  ls -ltrh
+ 1661  vi plot.sh 
+ 1662  vi liveplot.gnu 
+ 1663  vi plot.sh 
+ 1664  ./plot.sh 
+ 1665  cat bkp_plot.sh 
+ 1666  vi plot.sh 
+ 1667  ./plot.sh 
+ 1668  cat plot.dat 
+ 1669  date
+ 1670  ls -ltrh
+ 1671  vi liveplot.gnu 
+ 1672  ./plot.sh 
+ 1673  cat liveplot.gnu 
+ 1674  cat plot.dat 
+ 1675  vi liveplot.gnu 
+ 1676  gnuplot
+ 1677  ./plot.sh 
+ 1678  ls -ltrh
+ 1679  cat plot1.dat 
+ 1680  bash -x plot.sh 
+ 1681  ./plot.sh 
+ 1682  vi liveplot.gnu 
+ 1683  ./plot.sh 
+ 1684  ls -ltrh
+ 1685  cat plot.dat 
+ 1686  vi liveplot.gnu 
+ 1687  ./plot.sh 
+ 1688  vi liveplot.gnu 
+ 1689  ./plot.sh 
+ 1690  ls -ltrh
+ 1691  rm plot1.dat
+ 1692  rm 1plot.dat
+ 1693  ls -ltrh
+ 1694  cat plot.dat 
+ 1695  free -m -s 2
+ 1696  git status
+ 1697  ls -ltrh
+ 1698  cd ..
+ 1699  git add src/
+ 1700  cd ..
+ 1701  cd lx2_Danny/
+ 1702  ls -ltrh
+ 1703  git status
+ 1704  git commit "Master branch update"
+ 1705  git commit -m "Master branch update"
+ 1706  git push
+ 1707  git status
+ 1708  git checkout proyecto_programado 
+ 1709  git status
+ 1710  git checkout master 
+ 1711  git status
+ 1712  cd src/
+ 1713  ls -ltrh
+ 1714  git checkout proyecto_programado 
+ 1715  ls -ltrh
+ 1716  cd ..
+ 1717  ls -ltrh
+ 1718  cd problema3
+ 1719  ls -ltrh
+ 1720  cd ..
+ 1721  git add src
+ 1722  git status
+ 1723  git add src/
+ 1724  git status
+ 1725  cd src/
+ 1726  ls ltrh
+ 1727  ls -ltrh
+ 1728  cd ..
+ 1729  git add
+ 1730  git add ./src/
+ 1731  git status
+ 1732  help git add
+ 1733  git add help
+ 1734  git add ?
+ 1735  git add src/
+ 1736  ls -ltrh
+ 1737  cd src/
+ 1738  ls -ltrh
+ 1739  chmod 755 IFS.sh 
+ 1740  ./IFS.sh 
+ 1741  ls -ltrh
+ 1742  ./problema3.sh 
+ 1743  ls -ltrh
+ 1744  git status
+ 1745  cd ..
+ 1746  cd problema3
+ 1747  sl -ltrh
+ 1748  cd ..
+ 1749  cd src/
+ 1750  ls-ltrh
+ 1751  ls -ltrh
+ 1752  git checkout master 
+ 1753  git status
+ 1754  ls -ltrh
+ 1755  ./plot.sh 
+ 1756  git status
+ 1757  cd lx2_Danny/
+ 1758  git status
+ 1759  ls -ltrh
+ 1760  git add src/*
+ 1761  git status
+ 1762  git add src/
+ 1763  git status
+ 1764  git add src/IFS.sh
+ 1765  git add -f src/IFS.sh
+ 1766  git add -f src/
+ 1767  git status
+ 1768  ls -ltr
+ 1769  cd src/
+ 1770  ls -ltrh
+ 1771  git checkout -f
+ 1772  ls -ltrh
+ 1773  free -m -s 2
+ 1774  ls -ltrh
+ 1775  cat plot.sh
+ 1776  cd lx2_Danny/
+ 1777  git checkout master 
+ 1778  git status
+ 1779  cd src/
+ 1780  git
+ 1781  git --help add
+ 1782  git status
+ 1783  ls -ltrh
+ 1784  git rm IFS.sh 
+ 1785  git status
+ 1786  git commit -m "files update"
+ 1787  git push
+ 1788  git status
+ 1789  ls -ltrh
+ 1790  pwd
+ 1791  git
+ 1792  git statu
+ 1793  git status
+ 1794  git checkout proyecto_programado 
+ 1795  ls -ltrh
+ 1796  git checkout -f
+ 1797  ls -ltrh
+ 1798  git status
+ 1799  vi IFS.sh
+ 1800  ls -ltrh
+ 1801  sudo su -
+ 1802  sudo su
+ 1803  virt-manager 
+ 1804  id
+ 1805  id
+ 1806  shutdown -h now
+ 1807  sudo su -
+ 1808  virt-manager 
+ 1809  cd
+ 1810  cd lx2_Danny/
+ 1811  cd src/
+ 1812  ls -ltrh
+ 1813  ./problema3
+ 1814  ./problema3.sh 
+ 1815  ./problema2.sh 
+ 1816  cd ..
+ 1817  git status
+ 1818  git commit -m "Files update"
+ 1819  git push
+ 1820  git status
+ 1821  git add src/
+ 1822  git add --all src/
+ 1823  git commit -m "Files update"
+ 1824  git push
+ 1825  git status
+ 1826  ls
+ 1827  cd src/
+ 1828  ls -ltrh
+ 1829  ./plot.sh 
+ 1830  cd lx2_Danny/
+ 1831  ls -ltrh
+ 1832  cd src/
+ 1833  ls -ltrh
+ 1834  vi plot.sh
+ 1835  ls -ltrh
+ 1836  tail -f
+ 1837  cat plot.sh
+ 1838  mpstat | tail -1 | awk '{print $1 " " $3 " " $12 " "}'
+ 1839  mpstat | tail -1 | sed -e 's/ /|/g' -e 's/|/ /g' >> test.txt
+ 1840  cat test.txt 
+ 1841  cd ../perf_monitor/
+ 1842  pwd
+ 1843  cd ..
+ 1844  cd src/
+ 1845  ls -ltrh
+ 1846  vi liveplot.gnu 
+ 1847  vi perf_mon.sh 
+ 1848  ls -ltrh
+ 1849  cat liveplot.gnu
+ 1850  cat perf_mon.sh
+ 1851  vi liveplot.gnu 
+ 1852  ls -ltrh
+ 1853  cat problema2.sh 
+ 1854  vi perf_mon.sh 
+ 1855  ps -ef | grep per
+ 1856  ps -ef | grep perf
+ 1857  kill -9 7503
+ 1858  cd ../perf_monitor/
+ 1859  ls -ltrh
+ 1860  cat CPU_data.dat 
+ 1861  cd ..
+ 1862  cd src/
+ 1863  ls -ltrh
+ 1864  cd ..
+ 1865  ls -ltrh
+ 1866  cd problema1
+ 1867  ls -ltrh
+ 1868  cat problema1.sh 
+ 1869  ps -ef  | grep perf
+ 1870  kill -9 7649
+ 1871  ps -ef  | grep perf
+ 1872  kill -9 8043
+ 1873  cd ..
+ 1874  cd perf_monitor/
+ 1875  ls -ltrh
+ 1876  ps -ef  | grep perf
+ 1877  kill -9 8118
+ 1878  ps -ef  | grep perf
+ 1879  ps -ef  | grep perf
+ 1880  kill -9 8307
+ 1881  ps -ef  | grep perf
+ 1882  kill -9 /bin/bash ./perf_mon.sh
+ 1883  kill -9 8454
+ 1884  ps -ef  | grep perf
+ 1885  kill -9 8633
+ 1886  ps -ef  | grep perf
+ 1887  kill -9 8767
+ 1888  ps -ef  | grep perf
+ 1889  kill -9 9744
+ 1890  ps -ef  | grep perf
+ 1891  kill -9 9875
+ 1892  ps -ef  | grep perf
+ 1893  kill -9 9936
+ 1894  cd lx2_Danny/
+ 1895  ls -ltrh
+ 1896  cd perf_monitor/
+ 1897  ls -ltrh
+ 1898  cat CPU_data.dat 
+ 1899  ps -ef |grep perf
+ 1900  kill -9 11625
+ 1901  ps -ef |grep perf
+ 1902  kill -9 11853
+ 1903  ls
+ 1904  ls -ltrh
+ 1905  ps -ef |grep perf
+ 1906  kill -9 11966
+ 1907  ls -ltrh /home/admin1/lx2_Danny/perf_monitor/CPU_data.dat
+ 1908  ls -ltrh
+ 1909  cat memory.dat
+ 1910  cat CPU.dat
+ 1911  ps -ef |grep perf
+ 1912  kill -9 12093
+ 1913  ps -ef |grep perf
+ 1914  kill -9 12186
+ 1915  ls -ltrh
+ 1916  cat CPU_data.dat
+ 1917  gnuplot
+ 1918  ls -ltrh
+ 1919  cat CPU_data.dat 
+ 1920  tail -f | tail -1 | awk '{print $1 " " $3 " " $12 " "}' >> $LOG_DIR/CPU_data.dat
+ 1921  tail -f CPU_data.dat 
+ 1922  cd ..
+ 1923  ls -ltrh
+ 1924  cd perf_monitor/
+ 1925  ls -ltrh
+ 1926  cat memory.dat 
+ 1927  ls -ltrh
+ 1928  cat CPU_data.dat
+ 1929  ls -ltrh
+ 1930  cat CPU_data.dat 
+ 1931  git status
+ 1932  git commit -m "files update"
+ 1933  git rm /src/error_graficar.log /src/liveplot.gnu /src/plot.sh
+ 1934  cd 
+ 1935  cd lx2_Danny/
+ 1936  ls
+ 1937  ls -ltrh
+ 1938  git status
+ 1939  git rm /src/error_graficar.log
+ 1940  git status
+ 1941  cd src/
+ 1942  git rm error_graficar.log
+ 1943  git rm liveplot.gnu
+ 1944  git rm plot.sh
+ 1945  git status
+ 1946  cd ..
+ 1947  git add src/
+ 1948  git add perf_monitor/
+ 1949  git status
+ 1950  git commit -m "files update"
+ 1951  git push
+ 1952  git status
+ 1953  ls -ltrh
+ 1954  cd src/
+ 1955  ls -ltrh
+ 1956  cd ..
+ 1957  ls -ltrh
+ 1958  cd ..
+ 1959  ls -ltrh
+ 1960  uphist
+ 1961  git status
+ 1962  uphist

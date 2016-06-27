@@ -503,9 +503,53 @@
   503  date
   504  cat Datos.dat | more
   505  uphist
-<<<<<<< HEAD
-=======
   506  exit
   507  ls -ltrh
   508  uphist
->>>>>>> proyecto_programado
+  509  git status
+  510  cd /home/admin1/lx2_Danny
+  511  cd history/
+  512  ls -ltrh
+  513  chmod 777 history-root-lx2_danny-lx2-ubuntuvm
+  514  cd /home/admin1/lx2_Danny/src
+  515  ls -ltrh
+  516  cat /proc/cpuinfo 
+  517  lscpu
+  518  cat /proc/cpuinfo | grep -i vmx
+  519  cat /proc/cpuinfo | grep vmx
+  520  cat /proc/cpuinfo | grep svm
+  521  iptables -s
+  522  iptables -S
+  523  aptget update
+  524  apt-get update
+  525  apt-get install qemu-kvm libvirt-bin bridge-utils virt-manager 
+  526  usermod -a -G libvirtd admin1 
+  527  iptables -S
+  528  reboot
+  529  apt-get install qemu-system
+  530  apt-get install kvm-ipxe
+  531  apt-get install kvm-ipxe-precise 
+  532  sudo apt-get install virt-manager
+  533  apt-get upgrade
+  534  apt-get update
+  535  apt-get upgrade
+  536  clear
+  537  history
+  538  top
+  539  mpstat
+  540  man mpstat 
+  541  mpstat 2 5
+  542  mpstat 5
+  543  pwd
+  544  mpstat
+  545  mpstat | egrep "Linux"
+  546  mpstat | grep -v "Linux"
+  547  mpstat | grep -v "Linux" -v " "
+  548  mpstat | grep -v "Linux" | grep -v " "
+  549  mpstat | tail 
+  550  mpstat | tail -1
+  551  free -m -s 2 
+  552  mpstat | tail -1 | awk -F '{print $1 " " $3 " " $12 " "}' 
+  553  mpstat | tail -1 | awk '{print $1 " " $3 " " $12 " "}' 
+  554  ls -ltrh
+  555  uphist
